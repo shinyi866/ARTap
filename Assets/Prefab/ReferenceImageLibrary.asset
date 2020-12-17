@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5668216329570330906
+  m_GuidHigh: 17616869896623148674
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5057353975231752153
+      m_GuidHigh: 15716283510487869853
+    m_SerializedTextureGuid:
+      m_GuidLow: 17607261832285303991
+      m_GuidHigh: 5068756421366771640
+    m_Size: {x: 0.110091746, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 24rbb_leaf
+    m_Texture: {fileID: 2800000, guid: 64a8b4b78f59f459b8ef8b1c1cd75746, type: 3}
