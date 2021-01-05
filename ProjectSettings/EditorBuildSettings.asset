@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARPlaceObject.unity
     guid: 1b374598f36794a98b43e9fed348a9af
-  - enabled: 1
+  - enabled: 0
     path: Assets/iBeacon/Example/Scenes/Examples.unity
     guid: 5531c81088f374535951e8a300516581
+  - enabled: 0
+    path: Assets/Scenes/iBeaconScene.unity
+    guid: cd0b1bfd9927a444d938d1d981423335
+  - enabled: 1
+    path: Assets/Scenes/ARiBeaconScene.unity
+    guid: 7d2c2875b24d949c2a188437d93d2094
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 55c32474451a247898f3e43097c20a05,
       type: 2}

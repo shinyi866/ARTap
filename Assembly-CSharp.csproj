@@ -66,9 +66,11 @@
     <Compile Include="Assets\Scripts\ARTapToPlaceObject.cs" />
     <Compile Include="Assets\Scripts\ARTrackedImageChangedEventArgs.cs" />
     <Compile Include="Assets\Scripts\BoneLength.cs" />
+    <Compile Include="Assets\Scripts\CaculateThirdPoint.cs" />
     <Compile Include="Assets\Scripts\FeedDinosaur.cs" />
     <Compile Include="Assets\Scripts\IKFabric.cs" />
     <Compile Include="Assets\Scripts\TriggerObject.cs" />
+    <Compile Include="Assets\Scripts\iBeaconStatus.cs" />
     <Compile Include="Assets\iBeacon\Example\Source\Example.cs" />
     <Compile Include="Assets\iBeacon\Source\Beacon.cs" />
     <Compile Include="Assets\iBeacon\Source\BeaconPropertyAttribute.cs" />

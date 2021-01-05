@@ -1,11 +1,12 @@
 /target:library
 /nowarn:0169
-/out:"Temp/Assembly-CSharp.dll"
+/out:"Temp/Assembly-CSharp-Editor.dll"
 /debug:portable
 /optimize-
 /nostdlib+
 /preferreduilang:en-US
 /langversion:latest
+/reference:"Library/ScriptAssemblies/Assembly-CSharp.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll"
@@ -15,6 +16,8 @@
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AudioModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
@@ -66,6 +69,9 @@
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEditor.dll"
 /reference:"Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll"
+/reference:"Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll"
+/reference:"Library/ScriptAssemblies/UnityEditor.TestRunner.dll"
+/reference:"Library/ScriptAssemblies/UnityEngine.TestRunner.dll"
 /reference:"Library/ScriptAssemblies/Unity.XR.Management.dll"
 /reference:"Library/ScriptAssemblies/Unity.Timeline.Editor.dll"
 /reference:"Library/ScriptAssemblies/Unity.XR.ARKit.dll"
@@ -89,6 +95,13 @@
 /reference:"Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll"
 /reference:"Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll"
 /reference:"Library/ScriptAssemblies/UnityEditor.UI.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+/reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
+/reference:"/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll"
+/reference:"/Users/aslan/Desktop/expectStudio/case/FossilPark/code/ARtap/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
 /reference:"/Applications/Unity/Hub/Editor/2019.4.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll"
@@ -291,7 +304,7 @@
 /define:UNITY_HAS_GOOGLEVR
 /define:ENABLE_SPATIALTRACKING
 /define:ENABLE_MONO
-/define:NET_STANDARD_2_0
+/define:NET_4_6
 /define:ENABLE_PROFILER
 /define:DEBUG
 /define:TRACE
@@ -314,18 +327,6 @@
 /define:UNITY_XR_ARKIT_LOADER_ENABLED
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/Scripts/ARTapToPlaceObject.cs"
-"Assets/Scripts/ARTrackedImageChangedEventArgs.cs"
-"Assets/Scripts/BoneLength.cs"
-"Assets/Scripts/FeedDinosaur.cs"
-"Assets/Scripts/IKFabric.cs"
-"Assets/Scripts/TriggerObject.cs"
-"Assets/iBeacon/Example/Source/Example.cs"
-"Assets/iBeacon/Source/Beacon.cs"
-"Assets/iBeacon/Source/BeaconPropertyAttribute.cs"
-"Assets/iBeacon/Source/BluetoothState.cs"
-"Assets/iBeacon/Source/Telemetry.cs"
-"Assets/iBeacon/Source/iBeaconException.cs"
-"Assets/iBeacon/Source/iBeaconReceiver.cs"
-"Assets/iBeacon/Source/iBeaconRegion.cs"
-"Assets/iBeacon/Source/iBeaconServer.cs"
+"Assets/iBeacon/Source/Editor/BeaconPropertyDrawer.cs"
+"Assets/iBeacon/Source/Editor/PostProcessBuildTrigger.cs"
+"Assets/iBeacon/Source/Editor/iBeaconMenu.cs"

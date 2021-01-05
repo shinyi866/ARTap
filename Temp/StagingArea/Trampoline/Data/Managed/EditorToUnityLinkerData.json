@@ -6,7 +6,7 @@
             "fullManagedTypeName": "UnityEngine.Object",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -29,7 +29,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -38,7 +38,7 @@
             "fullManagedTypeName": "UnityEngine.Behaviour",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -61,7 +61,7 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -70,7 +70,7 @@
             "fullManagedTypeName": "UnityEngine.Shader",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -79,7 +79,7 @@
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -88,7 +88,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -97,7 +97,7 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -106,7 +106,7 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -115,7 +115,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -138,7 +138,7 @@
             "fullManagedTypeName": "UnityEngine.Material",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -234,11 +234,38 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioBehaviour",
-            "fullManagedTypeName": "UnityEngine.AudioBehaviour",
-            "moduleName": "Audio",
+            "nativeClass": "MeshRenderer",
+            "fullManagedTypeName": "UnityEngine.MeshRenderer",
+            "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "CapsuleCollider",
+            "fullManagedTypeName": "UnityEngine.CapsuleCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/ARiBeaconScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "BoxCollider",
+            "fullManagedTypeName": "UnityEngine.BoxCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/ARiBeaconScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "SphereCollider",
+            "fullManagedTypeName": "UnityEngine.SphereCollider",
+            "moduleName": "Physics",
+            "usedInScenes": [
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -247,7 +274,7 @@
             "fullManagedTypeName": "UnityEngine.Canvas",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -256,7 +283,7 @@
             "fullManagedTypeName": "UnityEngine.RectTransform",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -265,7 +292,7 @@
             "fullManagedTypeName": "UnityEngine.LightmapSettings",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -274,7 +301,7 @@
             "fullManagedTypeName": "UnityEngine.Sprite",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -283,7 +310,16 @@
             "fullManagedTypeName": "UnityEngine.Texture2D",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Renderer",
+            "fullManagedTypeName": "UnityEngine.Renderer",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -292,7 +328,7 @@
             "fullManagedTypeName": "UnityEngine.GameObject",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -301,7 +337,7 @@
             "fullManagedTypeName": "UnityEngine.Camera",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -310,7 +346,7 @@
             "fullManagedTypeName": "UnityEngine.Transform",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -319,16 +355,16 @@
             "fullManagedTypeName": "UnityEngine.RenderSettings",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "AudioListener",
-            "fullManagedTypeName": "UnityEngine.AudioListener",
-            "moduleName": "Audio",
+            "nativeClass": "Collider",
+            "fullManagedTypeName": "UnityEngine.Collider",
+            "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -337,7 +373,7 @@
             "fullManagedTypeName": "UnityEngine.Font",
             "moduleName": "TextRendering",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -346,7 +382,16 @@
             "fullManagedTypeName": "UnityEngine.CanvasRenderer",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Light",
+            "fullManagedTypeName": "UnityEngine.Light",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -355,7 +400,7 @@
             "fullManagedTypeName": "UnityEngine.Texture",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -364,7 +409,7 @@
             "fullManagedTypeName": "",
             "moduleName": "AI",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -373,16 +418,25 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "FlareLayer",
-            "fullManagedTypeName": "UnityEngine.FlareLayer",
+            "nativeClass": "Mesh",
+            "fullManagedTypeName": "UnityEngine.Mesh",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/iBeacon/Example/Scenes/Examples.unity"
+                "Assets/Scenes/ARiBeaconScene.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "MeshFilter",
+            "fullManagedTypeName": "UnityEngine.MeshFilter",
+            "moduleName": "Core",
+            "usedInScenes": [
+                "Assets/Scenes/ARiBeaconScene.unity"
             ]
         },
         {
@@ -395,7 +449,7 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "Example",
+            "fullManagedTypeName": "CaculateThirdPoint",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -409,7 +463,49 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "iBeaconServer",
+            "fullManagedTypeName": "iBeaconStatus",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARFoundation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARFoundation.ARCameraBackground",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARFoundation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARFoundation.ARCameraManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARFoundation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARFoundation.ARInputManager",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARFoundation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARFoundation.ARPoseDriver",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARFoundation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARFoundation.ARSession",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARFoundation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARFoundation.ARSessionOrigin",
             "moduleName": "",
             "usedInScenes": []
         },

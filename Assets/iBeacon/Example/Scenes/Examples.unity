@@ -422,7 +422,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1087477134}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.99999756
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -779,7 +779,7 @@ MonoBehaviour:
   _region:
     _regionName: yuri
     _beacon:
-      _type: 1
+      _type: 0
       _UUID: 9F81E604-3268-41FB-A443-9A365CCCF9AF
       _major: 0
       _minor: 0
@@ -809,7 +809,7 @@ MonoBehaviour:
   - _regionName: com.yuri.ibeacon
     _beacon:
       _type: 1
-      _UUID: 9F81E604-3268-41FB-A443-9A365CCCF9AF
+      _UUID: 5F85AAFC-3BE7-47BB-A774-226F5B68241D
       _major: 0
       _minor: 0
       _instance: 
@@ -832,6 +832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214668763}
   - component: {fileID: 214668762}
+  - component: {fileID: 214668764}
   m_Layer: 0
   m_Name: Example
   m_TagString: Untagged
@@ -892,6 +893,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &214668764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214668761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca275c5a71bbc41ff8c1c500b483ccb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &272205345
 GameObject:
   m_ObjectHideFlags: 0
@@ -5966,7 +5979,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0.9973369, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00002806742}
+  m_AnchoredPosition: {x: 0, y: 0.000048163853}
   m_SizeDelta: {x: 0, y: 140}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &1823981458
