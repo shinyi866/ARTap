@@ -9,6 +9,7 @@ public class iBeaconStatus : MonoBehaviour
 	public GameObject resultPosition;
 	public GameObject cube1;
 	public GameObject cube2;
+	public GameObject cylinder;
 	public Camera ARCamera;
 	[SerializeField]
 	private Text AddSecond;
@@ -296,16 +297,16 @@ public class iBeaconStatus : MonoBehaviour
 			if (b.major == 0 && b.minor == 0) { d1 = (float)b.accuracy * 100; }
 			if (b.major == 0 && b.minor == 1) { d2 = (float)b.accuracy * 100; }
 
-			cx = (Mathf.Pow(d1, 2) - Mathf.Pow(d2, 2) + 100) / 200;
-			var yPow = Mathf.Pow(d1, 2) - Mathf.Pow(cx, 2);
+			cx = (Mathf.Pow(d1, 2) - Mathf.Pow(d2, 2) + 10000) / 200;
+			var yPow = Mathf.Pow(d1, 2) - Mathf.Pow(cx , 2);
 			cy = Mathf.Sqrt(Mathf.Abs(yPow));
-			resultPosition.transform.position = new Vector3(cx, 0, 0);
-			//cube1.transform.position = new Vector3(ARCamera.transform.position.x - cx, ARCamera.transform.position.y - cy, 0);
-			//cube2.transform.position = new Vector3(Camera.main.transform.position.x + 1 - cx, Camera.main.transform.position.y - cy, 0);
+			resultPosition.transform.position = new Vector3(cx/100, 0, 0);
+			cube1.transform.position = new Vector3(ARCamera.transform.position.x - (cx/100), ARCamera.transform.position.y - (cy/100), 0);
+			cube2.transform.position = new Vector3(cube1.transform.position.x + 1, 0, 0);
 
             if(cx >= 0.3 && cx <= 0.4)
             {
-				cube1.transform.position = new Vector3(cx, 2, 0);
+				cylinder.transform.position = new Vector3(cx/100, 2, 0);
 			}
 
 			if (b.type == BeaconType.iBeacon)
@@ -320,8 +321,8 @@ public class iBeaconStatus : MonoBehaviour
 				//Texts[3].text = b.major.ToString();
 				//Texts[4].text = "Minor:";
 				//Texts[5].text = b.minor.ToString();
-                Texts[6].text = "cube1 (x,y):";
-				Texts[7].text = (ARCamera.transform.position.x - cx).ToString() + "," + (ARCamera.transform.position.y - cy).ToString();//b.range.ToString();
+                Texts[6].text = "AR camera (x,y):";
+				Texts[7].text = ARCamera.transform.position.x.ToString() + "," + ARCamera.transform.position.y.ToString();//b.range.ToString();
 				Texts[8].text = "Strength:";
 				Texts[9].text = b.strength.ToString() + " db";
 				Texts[10].text = "Accuracy:";

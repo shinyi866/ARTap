@@ -6585,8 +6585,8 @@ struct U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields
 public:
 	// iBeaconStatus_<>c iBeaconStatus_<>c::<>9
 	U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421 * ___U3CU3E9_0;
-	// UnityEngine.Events.UnityAction iBeaconStatus_<>c::<>9__38_0
-	UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * ___U3CU3E9__38_0_1;
+	// UnityEngine.Events.UnityAction iBeaconStatus_<>c::<>9__39_0
+	UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * ___U3CU3E9__39_0_1;
 
 public:
 	inline static int32_t get_offset_of_U3CU3E9_0() { return static_cast<int32_t>(offsetof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields, ___U3CU3E9_0)); }
@@ -6598,13 +6598,13 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CU3E9_0), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CU3E9__38_0_1() { return static_cast<int32_t>(offsetof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields, ___U3CU3E9__38_0_1)); }
-	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * get_U3CU3E9__38_0_1() const { return ___U3CU3E9__38_0_1; }
-	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 ** get_address_of_U3CU3E9__38_0_1() { return &___U3CU3E9__38_0_1; }
-	inline void set_U3CU3E9__38_0_1(UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * value)
+	inline static int32_t get_offset_of_U3CU3E9__39_0_1() { return static_cast<int32_t>(offsetof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields, ___U3CU3E9__39_0_1)); }
+	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * get_U3CU3E9__39_0_1() const { return ___U3CU3E9__39_0_1; }
+	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 ** get_address_of_U3CU3E9__39_0_1() { return &___U3CU3E9__39_0_1; }
+	inline void set_U3CU3E9__39_0_1(UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * value)
 	{
-		___U3CU3E9__38_0_1 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___U3CU3E9__38_0_1), (void*)value);
+		___U3CU3E9__39_0_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___U3CU3E9__39_0_1), (void*)value);
 	}
 };
 
@@ -46878,68 +46878,70 @@ public:
 	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___cube1_5;
 	// UnityEngine.GameObject iBeaconStatus::cube2
 	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___cube2_6;
+	// UnityEngine.GameObject iBeaconStatus::cylinder
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___cylinder_7;
 	// UnityEngine.Camera iBeaconStatus::ARCamera
-	Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * ___ARCamera_7;
+	Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * ___ARCamera_8;
 	// UnityEngine.UI.Text iBeaconStatus::AddSecond
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___AddSecond_8;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___AddSecond_9;
 	// UnityEngine.UI.Text iBeaconStatus::_statusText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____statusText_9;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____statusText_10;
 	// UnityEngine.UI.Button iBeaconStatus::_bluetoothButton
-	Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * ____bluetoothButton_10;
+	Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * ____bluetoothButton_11;
 	// UnityEngine.GameObject iBeaconStatus::_statusScreen
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____statusScreen_11;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____statusScreen_12;
 	// UnityEngine.GameObject iBeaconStatus::_menuScreen
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____menuScreen_12;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____menuScreen_13;
 	// UnityEngine.UI.Text iBeaconStatus::_bluetoothText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____bluetoothText_13;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____bluetoothText_14;
 	// BeaconType iBeaconStatus::bt_PendingType
-	int32_t ___bt_PendingType_14;
+	int32_t ___bt_PendingType_15;
 	// BeaconType iBeaconStatus::bt_Type
-	int32_t ___bt_Type_15;
+	int32_t ___bt_Type_16;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualType
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualType_16;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualType_17;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualRegion
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualRegion_17;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualRegion_18;
 	// System.String iBeaconStatus::s_Region
-	String_t* ___s_Region_18;
+	String_t* ___s_Region_19;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualUUID
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualUUID_19;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualUUID_20;
 	// System.String iBeaconStatus::s_UUID
-	String_t* ___s_UUID_20;
+	String_t* ___s_UUID_21;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualMajor
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMajor_21;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMajor_22;
 	// System.String iBeaconStatus::s_Major
-	String_t* ___s_Major_22;
+	String_t* ___s_Major_23;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualMinor
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMinor_23;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMinor_24;
 	// System.String iBeaconStatus::s_Minor
-	String_t* ___s_Minor_24;
+	String_t* ___s_Minor_25;
 	// BroadcastMode iBeaconStatus::bm_Mode
-	int32_t ___bm_Mode_25;
+	int32_t ___bm_Mode_26;
 	// UnityEngine.UI.Image iBeaconStatus::img_ButtonBroadcastState
-	Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * ___img_ButtonBroadcastState_26;
+	Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * ___img_ButtonBroadcastState_27;
 	// UnityEngine.UI.Text iBeaconStatus::txt_BroadcastState_ButtonText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_ButtonText_27;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_ButtonText_28;
 	// UnityEngine.UI.Text iBeaconStatus::txt_BroadcastState_LabelText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_LabelText_28;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_LabelText_29;
 	// BroadcastState iBeaconStatus::bs_State
-	int32_t ___bs_State_29;
+	int32_t ___bs_State_30;
 	// UnityEngine.GameObject iBeaconStatus::go_ScrollViewContent
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_ScrollViewContent_30;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_ScrollViewContent_31;
 	// UnityEngine.GameObject iBeaconStatus::go_FoundBeacon
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeacon_31;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeacon_32;
 	// System.Collections.Generic.List`1<UnityEngine.GameObject> iBeaconStatus::go_FoundBeaconCloneList
-	List_1_t3D4152882C54B77C712688E910390D5C8E030463 * ___go_FoundBeaconCloneList_32;
+	List_1_t3D4152882C54B77C712688E910390D5C8E030463 * ___go_FoundBeaconCloneList_33;
 	// UnityEngine.GameObject iBeaconStatus::go_FoundBeaconClone
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeaconClone_33;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeaconClone_34;
 	// System.Single iBeaconStatus::f_ScrollViewContentRectWidth
-	float ___f_ScrollViewContentRectWidth_34;
+	float ___f_ScrollViewContentRectWidth_35;
 	// System.Single iBeaconStatus::f_ScrollViewContentRectHeight
-	float ___f_ScrollViewContentRectHeight_35;
+	float ___f_ScrollViewContentRectHeight_36;
 	// System.Int32 iBeaconStatus::i_BeaconCounter
-	int32_t ___i_BeaconCounter_36;
+	int32_t ___i_BeaconCounter_37;
 	// System.Collections.Generic.List`1<Beacon> iBeaconStatus::mybeacons
-	List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * ___mybeacons_37;
+	List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * ___mybeacons_38;
 
 public:
 	inline static int32_t get_offset_of_resultPosition_4() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___resultPosition_4)); }
@@ -46969,276 +46971,285 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___cube2_6), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_ARCamera_7() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___ARCamera_7)); }
-	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * get_ARCamera_7() const { return ___ARCamera_7; }
-	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 ** get_address_of_ARCamera_7() { return &___ARCamera_7; }
-	inline void set_ARCamera_7(Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * value)
+	inline static int32_t get_offset_of_cylinder_7() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___cylinder_7)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_cylinder_7() const { return ___cylinder_7; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_cylinder_7() { return &___cylinder_7; }
+	inline void set_cylinder_7(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___ARCamera_7 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___ARCamera_7), (void*)value);
+		___cylinder_7 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___cylinder_7), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_AddSecond_8() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___AddSecond_8)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_AddSecond_8() const { return ___AddSecond_8; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_AddSecond_8() { return &___AddSecond_8; }
-	inline void set_AddSecond_8(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_ARCamera_8() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___ARCamera_8)); }
+	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * get_ARCamera_8() const { return ___ARCamera_8; }
+	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 ** get_address_of_ARCamera_8() { return &___ARCamera_8; }
+	inline void set_ARCamera_8(Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * value)
 	{
-		___AddSecond_8 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___AddSecond_8), (void*)value);
+		___ARCamera_8 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___ARCamera_8), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__statusText_9() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusText_9)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__statusText_9() const { return ____statusText_9; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__statusText_9() { return &____statusText_9; }
-	inline void set__statusText_9(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_AddSecond_9() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___AddSecond_9)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_AddSecond_9() const { return ___AddSecond_9; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_AddSecond_9() { return &___AddSecond_9; }
+	inline void set_AddSecond_9(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		____statusText_9 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____statusText_9), (void*)value);
+		___AddSecond_9 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___AddSecond_9), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__bluetoothButton_10() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothButton_10)); }
-	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * get__bluetoothButton_10() const { return ____bluetoothButton_10; }
-	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B ** get_address_of__bluetoothButton_10() { return &____bluetoothButton_10; }
-	inline void set__bluetoothButton_10(Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * value)
+	inline static int32_t get_offset_of__statusText_10() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusText_10)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__statusText_10() const { return ____statusText_10; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__statusText_10() { return &____statusText_10; }
+	inline void set__statusText_10(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		____bluetoothButton_10 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothButton_10), (void*)value);
+		____statusText_10 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____statusText_10), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__statusScreen_11() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusScreen_11)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__statusScreen_11() const { return ____statusScreen_11; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__statusScreen_11() { return &____statusScreen_11; }
-	inline void set__statusScreen_11(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of__bluetoothButton_11() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothButton_11)); }
+	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * get__bluetoothButton_11() const { return ____bluetoothButton_11; }
+	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B ** get_address_of__bluetoothButton_11() { return &____bluetoothButton_11; }
+	inline void set__bluetoothButton_11(Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * value)
 	{
-		____statusScreen_11 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____statusScreen_11), (void*)value);
+		____bluetoothButton_11 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothButton_11), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__menuScreen_12() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____menuScreen_12)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__menuScreen_12() const { return ____menuScreen_12; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__menuScreen_12() { return &____menuScreen_12; }
-	inline void set__menuScreen_12(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of__statusScreen_12() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusScreen_12)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__statusScreen_12() const { return ____statusScreen_12; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__statusScreen_12() { return &____statusScreen_12; }
+	inline void set__statusScreen_12(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		____menuScreen_12 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____menuScreen_12), (void*)value);
+		____statusScreen_12 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____statusScreen_12), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__bluetoothText_13() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothText_13)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__bluetoothText_13() const { return ____bluetoothText_13; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__bluetoothText_13() { return &____bluetoothText_13; }
-	inline void set__bluetoothText_13(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of__menuScreen_13() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____menuScreen_13)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__menuScreen_13() const { return ____menuScreen_13; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__menuScreen_13() { return &____menuScreen_13; }
+	inline void set__menuScreen_13(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		____bluetoothText_13 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothText_13), (void*)value);
+		____menuScreen_13 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____menuScreen_13), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bt_PendingType_14() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_PendingType_14)); }
-	inline int32_t get_bt_PendingType_14() const { return ___bt_PendingType_14; }
-	inline int32_t* get_address_of_bt_PendingType_14() { return &___bt_PendingType_14; }
-	inline void set_bt_PendingType_14(int32_t value)
+	inline static int32_t get_offset_of__bluetoothText_14() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothText_14)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__bluetoothText_14() const { return ____bluetoothText_14; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__bluetoothText_14() { return &____bluetoothText_14; }
+	inline void set__bluetoothText_14(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___bt_PendingType_14 = value;
+		____bluetoothText_14 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothText_14), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bt_Type_15() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_Type_15)); }
-	inline int32_t get_bt_Type_15() const { return ___bt_Type_15; }
-	inline int32_t* get_address_of_bt_Type_15() { return &___bt_Type_15; }
-	inline void set_bt_Type_15(int32_t value)
+	inline static int32_t get_offset_of_bt_PendingType_15() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_PendingType_15)); }
+	inline int32_t get_bt_PendingType_15() const { return ___bt_PendingType_15; }
+	inline int32_t* get_address_of_bt_PendingType_15() { return &___bt_PendingType_15; }
+	inline void set_bt_PendingType_15(int32_t value)
 	{
-		___bt_Type_15 = value;
+		___bt_PendingType_15 = value;
 	}
 
-	inline static int32_t get_offset_of_txt_actualType_16() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualType_16)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualType_16() const { return ___txt_actualType_16; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualType_16() { return &___txt_actualType_16; }
-	inline void set_txt_actualType_16(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_bt_Type_16() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_Type_16)); }
+	inline int32_t get_bt_Type_16() const { return ___bt_Type_16; }
+	inline int32_t* get_address_of_bt_Type_16() { return &___bt_Type_16; }
+	inline void set_bt_Type_16(int32_t value)
 	{
-		___txt_actualType_16 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualType_16), (void*)value);
+		___bt_Type_16 = value;
 	}
 
-	inline static int32_t get_offset_of_txt_actualRegion_17() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualRegion_17)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualRegion_17() const { return ___txt_actualRegion_17; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualRegion_17() { return &___txt_actualRegion_17; }
-	inline void set_txt_actualRegion_17(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_txt_actualType_17() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualType_17)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualType_17() const { return ___txt_actualType_17; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualType_17() { return &___txt_actualType_17; }
+	inline void set_txt_actualType_17(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___txt_actualRegion_17 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualRegion_17), (void*)value);
+		___txt_actualType_17 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualType_17), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_Region_18() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Region_18)); }
-	inline String_t* get_s_Region_18() const { return ___s_Region_18; }
-	inline String_t** get_address_of_s_Region_18() { return &___s_Region_18; }
-	inline void set_s_Region_18(String_t* value)
+	inline static int32_t get_offset_of_txt_actualRegion_18() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualRegion_18)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualRegion_18() const { return ___txt_actualRegion_18; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualRegion_18() { return &___txt_actualRegion_18; }
+	inline void set_txt_actualRegion_18(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_Region_18 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_Region_18), (void*)value);
+		___txt_actualRegion_18 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualRegion_18), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_actualUUID_19() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualUUID_19)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualUUID_19() const { return ___txt_actualUUID_19; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualUUID_19() { return &___txt_actualUUID_19; }
-	inline void set_txt_actualUUID_19(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_s_Region_19() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Region_19)); }
+	inline String_t* get_s_Region_19() const { return ___s_Region_19; }
+	inline String_t** get_address_of_s_Region_19() { return &___s_Region_19; }
+	inline void set_s_Region_19(String_t* value)
 	{
-		___txt_actualUUID_19 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualUUID_19), (void*)value);
+		___s_Region_19 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_Region_19), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_UUID_20() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_UUID_20)); }
-	inline String_t* get_s_UUID_20() const { return ___s_UUID_20; }
-	inline String_t** get_address_of_s_UUID_20() { return &___s_UUID_20; }
-	inline void set_s_UUID_20(String_t* value)
+	inline static int32_t get_offset_of_txt_actualUUID_20() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualUUID_20)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualUUID_20() const { return ___txt_actualUUID_20; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualUUID_20() { return &___txt_actualUUID_20; }
+	inline void set_txt_actualUUID_20(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_UUID_20 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_UUID_20), (void*)value);
+		___txt_actualUUID_20 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualUUID_20), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_actualMajor_21() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMajor_21)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMajor_21() const { return ___txt_actualMajor_21; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMajor_21() { return &___txt_actualMajor_21; }
-	inline void set_txt_actualMajor_21(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_s_UUID_21() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_UUID_21)); }
+	inline String_t* get_s_UUID_21() const { return ___s_UUID_21; }
+	inline String_t** get_address_of_s_UUID_21() { return &___s_UUID_21; }
+	inline void set_s_UUID_21(String_t* value)
 	{
-		___txt_actualMajor_21 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMajor_21), (void*)value);
+		___s_UUID_21 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_UUID_21), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_Major_22() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Major_22)); }
-	inline String_t* get_s_Major_22() const { return ___s_Major_22; }
-	inline String_t** get_address_of_s_Major_22() { return &___s_Major_22; }
-	inline void set_s_Major_22(String_t* value)
+	inline static int32_t get_offset_of_txt_actualMajor_22() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMajor_22)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMajor_22() const { return ___txt_actualMajor_22; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMajor_22() { return &___txt_actualMajor_22; }
+	inline void set_txt_actualMajor_22(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_Major_22 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_Major_22), (void*)value);
+		___txt_actualMajor_22 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMajor_22), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_actualMinor_23() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMinor_23)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMinor_23() const { return ___txt_actualMinor_23; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMinor_23() { return &___txt_actualMinor_23; }
-	inline void set_txt_actualMinor_23(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_s_Major_23() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Major_23)); }
+	inline String_t* get_s_Major_23() const { return ___s_Major_23; }
+	inline String_t** get_address_of_s_Major_23() { return &___s_Major_23; }
+	inline void set_s_Major_23(String_t* value)
 	{
-		___txt_actualMinor_23 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMinor_23), (void*)value);
+		___s_Major_23 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_Major_23), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_Minor_24() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Minor_24)); }
-	inline String_t* get_s_Minor_24() const { return ___s_Minor_24; }
-	inline String_t** get_address_of_s_Minor_24() { return &___s_Minor_24; }
-	inline void set_s_Minor_24(String_t* value)
+	inline static int32_t get_offset_of_txt_actualMinor_24() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMinor_24)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMinor_24() const { return ___txt_actualMinor_24; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMinor_24() { return &___txt_actualMinor_24; }
+	inline void set_txt_actualMinor_24(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_Minor_24 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_Minor_24), (void*)value);
+		___txt_actualMinor_24 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMinor_24), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bm_Mode_25() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bm_Mode_25)); }
-	inline int32_t get_bm_Mode_25() const { return ___bm_Mode_25; }
-	inline int32_t* get_address_of_bm_Mode_25() { return &___bm_Mode_25; }
-	inline void set_bm_Mode_25(int32_t value)
+	inline static int32_t get_offset_of_s_Minor_25() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Minor_25)); }
+	inline String_t* get_s_Minor_25() const { return ___s_Minor_25; }
+	inline String_t** get_address_of_s_Minor_25() { return &___s_Minor_25; }
+	inline void set_s_Minor_25(String_t* value)
 	{
-		___bm_Mode_25 = value;
+		___s_Minor_25 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_Minor_25), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_img_ButtonBroadcastState_26() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___img_ButtonBroadcastState_26)); }
-	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * get_img_ButtonBroadcastState_26() const { return ___img_ButtonBroadcastState_26; }
-	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E ** get_address_of_img_ButtonBroadcastState_26() { return &___img_ButtonBroadcastState_26; }
-	inline void set_img_ButtonBroadcastState_26(Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * value)
+	inline static int32_t get_offset_of_bm_Mode_26() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bm_Mode_26)); }
+	inline int32_t get_bm_Mode_26() const { return ___bm_Mode_26; }
+	inline int32_t* get_address_of_bm_Mode_26() { return &___bm_Mode_26; }
+	inline void set_bm_Mode_26(int32_t value)
 	{
-		___img_ButtonBroadcastState_26 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___img_ButtonBroadcastState_26), (void*)value);
+		___bm_Mode_26 = value;
 	}
 
-	inline static int32_t get_offset_of_txt_BroadcastState_ButtonText_27() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_ButtonText_27)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_ButtonText_27() const { return ___txt_BroadcastState_ButtonText_27; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_ButtonText_27() { return &___txt_BroadcastState_ButtonText_27; }
-	inline void set_txt_BroadcastState_ButtonText_27(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_img_ButtonBroadcastState_27() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___img_ButtonBroadcastState_27)); }
+	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * get_img_ButtonBroadcastState_27() const { return ___img_ButtonBroadcastState_27; }
+	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E ** get_address_of_img_ButtonBroadcastState_27() { return &___img_ButtonBroadcastState_27; }
+	inline void set_img_ButtonBroadcastState_27(Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * value)
 	{
-		___txt_BroadcastState_ButtonText_27 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_ButtonText_27), (void*)value);
+		___img_ButtonBroadcastState_27 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___img_ButtonBroadcastState_27), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_BroadcastState_LabelText_28() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_LabelText_28)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_LabelText_28() const { return ___txt_BroadcastState_LabelText_28; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_LabelText_28() { return &___txt_BroadcastState_LabelText_28; }
-	inline void set_txt_BroadcastState_LabelText_28(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_txt_BroadcastState_ButtonText_28() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_ButtonText_28)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_ButtonText_28() const { return ___txt_BroadcastState_ButtonText_28; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_ButtonText_28() { return &___txt_BroadcastState_ButtonText_28; }
+	inline void set_txt_BroadcastState_ButtonText_28(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___txt_BroadcastState_LabelText_28 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_LabelText_28), (void*)value);
+		___txt_BroadcastState_ButtonText_28 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_ButtonText_28), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bs_State_29() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bs_State_29)); }
-	inline int32_t get_bs_State_29() const { return ___bs_State_29; }
-	inline int32_t* get_address_of_bs_State_29() { return &___bs_State_29; }
-	inline void set_bs_State_29(int32_t value)
+	inline static int32_t get_offset_of_txt_BroadcastState_LabelText_29() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_LabelText_29)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_LabelText_29() const { return ___txt_BroadcastState_LabelText_29; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_LabelText_29() { return &___txt_BroadcastState_LabelText_29; }
+	inline void set_txt_BroadcastState_LabelText_29(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___bs_State_29 = value;
+		___txt_BroadcastState_LabelText_29 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_LabelText_29), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_go_ScrollViewContent_30() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_ScrollViewContent_30)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_ScrollViewContent_30() const { return ___go_ScrollViewContent_30; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_ScrollViewContent_30() { return &___go_ScrollViewContent_30; }
-	inline void set_go_ScrollViewContent_30(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of_bs_State_30() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bs_State_30)); }
+	inline int32_t get_bs_State_30() const { return ___bs_State_30; }
+	inline int32_t* get_address_of_bs_State_30() { return &___bs_State_30; }
+	inline void set_bs_State_30(int32_t value)
 	{
-		___go_ScrollViewContent_30 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_ScrollViewContent_30), (void*)value);
+		___bs_State_30 = value;
 	}
 
-	inline static int32_t get_offset_of_go_FoundBeacon_31() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeacon_31)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeacon_31() const { return ___go_FoundBeacon_31; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeacon_31() { return &___go_FoundBeacon_31; }
-	inline void set_go_FoundBeacon_31(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of_go_ScrollViewContent_31() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_ScrollViewContent_31)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_ScrollViewContent_31() const { return ___go_ScrollViewContent_31; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_ScrollViewContent_31() { return &___go_ScrollViewContent_31; }
+	inline void set_go_ScrollViewContent_31(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___go_FoundBeacon_31 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeacon_31), (void*)value);
+		___go_ScrollViewContent_31 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_ScrollViewContent_31), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_go_FoundBeaconCloneList_32() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconCloneList_32)); }
-	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 * get_go_FoundBeaconCloneList_32() const { return ___go_FoundBeaconCloneList_32; }
-	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 ** get_address_of_go_FoundBeaconCloneList_32() { return &___go_FoundBeaconCloneList_32; }
-	inline void set_go_FoundBeaconCloneList_32(List_1_t3D4152882C54B77C712688E910390D5C8E030463 * value)
+	inline static int32_t get_offset_of_go_FoundBeacon_32() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeacon_32)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeacon_32() const { return ___go_FoundBeacon_32; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeacon_32() { return &___go_FoundBeacon_32; }
+	inline void set_go_FoundBeacon_32(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___go_FoundBeaconCloneList_32 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconCloneList_32), (void*)value);
+		___go_FoundBeacon_32 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeacon_32), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_go_FoundBeaconClone_33() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconClone_33)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeaconClone_33() const { return ___go_FoundBeaconClone_33; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeaconClone_33() { return &___go_FoundBeaconClone_33; }
-	inline void set_go_FoundBeaconClone_33(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of_go_FoundBeaconCloneList_33() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconCloneList_33)); }
+	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 * get_go_FoundBeaconCloneList_33() const { return ___go_FoundBeaconCloneList_33; }
+	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 ** get_address_of_go_FoundBeaconCloneList_33() { return &___go_FoundBeaconCloneList_33; }
+	inline void set_go_FoundBeaconCloneList_33(List_1_t3D4152882C54B77C712688E910390D5C8E030463 * value)
 	{
-		___go_FoundBeaconClone_33 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconClone_33), (void*)value);
+		___go_FoundBeaconCloneList_33 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconCloneList_33), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_f_ScrollViewContentRectWidth_34() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectWidth_34)); }
-	inline float get_f_ScrollViewContentRectWidth_34() const { return ___f_ScrollViewContentRectWidth_34; }
-	inline float* get_address_of_f_ScrollViewContentRectWidth_34() { return &___f_ScrollViewContentRectWidth_34; }
-	inline void set_f_ScrollViewContentRectWidth_34(float value)
+	inline static int32_t get_offset_of_go_FoundBeaconClone_34() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconClone_34)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeaconClone_34() const { return ___go_FoundBeaconClone_34; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeaconClone_34() { return &___go_FoundBeaconClone_34; }
+	inline void set_go_FoundBeaconClone_34(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___f_ScrollViewContentRectWidth_34 = value;
+		___go_FoundBeaconClone_34 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconClone_34), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_f_ScrollViewContentRectHeight_35() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectHeight_35)); }
-	inline float get_f_ScrollViewContentRectHeight_35() const { return ___f_ScrollViewContentRectHeight_35; }
-	inline float* get_address_of_f_ScrollViewContentRectHeight_35() { return &___f_ScrollViewContentRectHeight_35; }
-	inline void set_f_ScrollViewContentRectHeight_35(float value)
+	inline static int32_t get_offset_of_f_ScrollViewContentRectWidth_35() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectWidth_35)); }
+	inline float get_f_ScrollViewContentRectWidth_35() const { return ___f_ScrollViewContentRectWidth_35; }
+	inline float* get_address_of_f_ScrollViewContentRectWidth_35() { return &___f_ScrollViewContentRectWidth_35; }
+	inline void set_f_ScrollViewContentRectWidth_35(float value)
 	{
-		___f_ScrollViewContentRectHeight_35 = value;
+		___f_ScrollViewContentRectWidth_35 = value;
 	}
 
-	inline static int32_t get_offset_of_i_BeaconCounter_36() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___i_BeaconCounter_36)); }
-	inline int32_t get_i_BeaconCounter_36() const { return ___i_BeaconCounter_36; }
-	inline int32_t* get_address_of_i_BeaconCounter_36() { return &___i_BeaconCounter_36; }
-	inline void set_i_BeaconCounter_36(int32_t value)
+	inline static int32_t get_offset_of_f_ScrollViewContentRectHeight_36() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectHeight_36)); }
+	inline float get_f_ScrollViewContentRectHeight_36() const { return ___f_ScrollViewContentRectHeight_36; }
+	inline float* get_address_of_f_ScrollViewContentRectHeight_36() { return &___f_ScrollViewContentRectHeight_36; }
+	inline void set_f_ScrollViewContentRectHeight_36(float value)
 	{
-		___i_BeaconCounter_36 = value;
+		___f_ScrollViewContentRectHeight_36 = value;
 	}
 
-	inline static int32_t get_offset_of_mybeacons_37() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___mybeacons_37)); }
-	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * get_mybeacons_37() const { return ___mybeacons_37; }
-	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E ** get_address_of_mybeacons_37() { return &___mybeacons_37; }
-	inline void set_mybeacons_37(List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * value)
+	inline static int32_t get_offset_of_i_BeaconCounter_37() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___i_BeaconCounter_37)); }
+	inline int32_t get_i_BeaconCounter_37() const { return ___i_BeaconCounter_37; }
+	inline int32_t* get_address_of_i_BeaconCounter_37() { return &___i_BeaconCounter_37; }
+	inline void set_i_BeaconCounter_37(int32_t value)
 	{
-		___mybeacons_37 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___mybeacons_37), (void*)value);
+		___i_BeaconCounter_37 = value;
+	}
+
+	inline static int32_t get_offset_of_mybeacons_38() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___mybeacons_38)); }
+	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * get_mybeacons_38() const { return ___mybeacons_38; }
+	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E ** get_address_of_mybeacons_38() { return &___mybeacons_38; }
+	inline void set_mybeacons_38(List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * value)
+	{
+		___mybeacons_38 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___mybeacons_38), (void*)value);
 	}
 };
 
@@ -65501,49 +65512,50 @@ extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3070;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize3070 = { sizeof (TriggerObject_t5116342DEE4AD75329B7650A0419788886F0F763), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3071;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize3071 = { sizeof (iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE), -1, 0, 0 };
-IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable3071[34] = 
+IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable3071[35] = 
 {
 	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_resultPosition_4(),
 	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_cube1_5(),
 	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_cube2_6(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_ARCamera_7(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_AddSecond_8(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__statusText_9(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__bluetoothButton_10(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__statusScreen_11(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__menuScreen_12(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__bluetoothText_13(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bt_PendingType_14(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bt_Type_15(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualType_16(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualRegion_17(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_Region_18(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualUUID_19(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_UUID_20(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualMajor_21(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_Major_22(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualMinor_23(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_Minor_24(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bm_Mode_25(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_img_ButtonBroadcastState_26(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_BroadcastState_ButtonText_27(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_BroadcastState_LabelText_28(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bs_State_29(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_ScrollViewContent_30(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_FoundBeacon_31(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_FoundBeaconCloneList_32(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_FoundBeaconClone_33(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_f_ScrollViewContentRectWidth_34(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_f_ScrollViewContentRectHeight_35(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_i_BeaconCounter_36(),
-	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_mybeacons_37(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_cylinder_7(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_ARCamera_8(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_AddSecond_9(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__statusText_10(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__bluetoothButton_11(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__statusScreen_12(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__menuScreen_13(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of__bluetoothText_14(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bt_PendingType_15(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bt_Type_16(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualType_17(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualRegion_18(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_Region_19(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualUUID_20(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_UUID_21(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualMajor_22(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_Major_23(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_actualMinor_24(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_s_Minor_25(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bm_Mode_26(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_img_ButtonBroadcastState_27(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_BroadcastState_ButtonText_28(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_txt_BroadcastState_LabelText_29(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_bs_State_30(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_ScrollViewContent_31(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_FoundBeacon_32(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_FoundBeaconCloneList_33(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_go_FoundBeaconClone_34(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_f_ScrollViewContentRectWidth_35(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_f_ScrollViewContentRectHeight_36(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_i_BeaconCounter_37(),
+	iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE::get_offset_of_mybeacons_38(),
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3072;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize3072 = { sizeof (U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421), -1, sizeof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields), 0 };
 IL2CPP_EXTERN_C const int32_t g_FieldOffsetTable3072[2] = 
 {
 	U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields::get_offset_of_U3CU3E9_0(),
-	U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields::get_offset_of_U3CU3E9__38_0_1(),
+	U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields::get_offset_of_U3CU3E9__39_0_1(),
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize3073;
 const Il2CppTypeDefinitionSizes g_typeDefinitionSize3073 = { sizeof (BroadcastMode_t1914C940F1376C6B26EC5D6CFD6AE3516D47E9EF)+ sizeof (RuntimeObject), sizeof(int32_t), 0, 0 };

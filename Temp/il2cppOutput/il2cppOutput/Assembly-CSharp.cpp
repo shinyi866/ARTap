@@ -656,7 +656,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* Object_FindObjectOfType_TisiBeaconServer_tC
 IL2CPP_EXTERN_C const RuntimeMethod* Object_Instantiate_TisGameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F_m4F397BCC6697902B40033E61129D4EA6FE93570F_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Object_Instantiate_TisGameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F_mC4AB712D7F18E0991E1542CE53F11385E21E7B90_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Telemetry__ctor_m25387822CF76FF15D4E11BBDDC2F2D74A80473BB_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CBluetoothStatusU3Eb__38_0_m5B543E21ECB8A7726B8289DE15F58ED6118D6117_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CBluetoothStatusU3Eb__39_0_mF0F0A2464F13A62B49BDF6BEB9ADA7AB6F265B88_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CInternInitU3Eb__36_0_m33BC16E6ED1C47D539C9E001F4D59C8D8F42A1DD_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CStartU3Eb__42_0_mD5A60F4E253351C066A82C5FE6DBBABC97C10C8B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass8_0_U3C_ctorU3Eb__0_mDAD6BF9DA27ABE7A70B08FEBD04DE5B1C07F463F_RuntimeMethod_var;
@@ -664,7 +664,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* iBeaconReceiver_GetJsonArray_TisBeacon_t36C
 IL2CPP_EXTERN_C const RuntimeMethod* iBeaconReceiver_InternInit_mF0C9FD5F56562B3FA45B466136BFD440D287705A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* iBeaconServer_InternInit_mAF66B7F2FC9FCEC846797D4C8E93C1F85E5CF976_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* iBeaconStatus_OnBeaconRangeChanged_m273E9B570DF7BE965B31EA76C724AD9FBAC3055D_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* iBeaconStatus_U3CBluetoothStatusU3Eb__38_1_mA46A180AF3F5FF0D67ADDD565B3003EBC6446272_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* iBeaconStatus_U3CBluetoothStatusU3Eb__39_1_mF82C6321FFB82F2AD1A41D7E927FFE5AAA946BA8_RuntimeMethod_var;
 IL2CPP_EXTERN_C const uint32_t ARTapToPlaceObject_Awake_m0CEF4C47C1C398B9179F6032622014835181F6FF_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ARTapToPlaceObject_Update_mCEA015466DB37FE1DC8947F8B16E5773004E3F7C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ARTapToPlaceObject__cctor_mBC951FA44087B2B924D7177416666CE4FC2FD5EA_MetadataUsageId;
@@ -717,7 +717,7 @@ IL2CPP_EXTERN_C const uint32_t FeedDinosaur_OnTrackedImagesStart_m7465098ECC9A99
 IL2CPP_EXTERN_C const uint32_t FeedDinosaur_TargetDirection_m2953924E04057FD7A548BC04872C3BF4AAFE65C7_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t Telemetry__ctor_m25387822CF76FF15D4E11BBDDC2F2D74A80473BB_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t TriggerObject_OnTriggerEnter_m3F4A3BE053F42733A1F90BF6C974EFB3DA1381A4_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t U3CU3Ec_U3CBluetoothStatusU3Eb__38_0_m5B543E21ECB8A7726B8289DE15F58ED6118D6117_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t U3CU3Ec_U3CBluetoothStatusU3Eb__39_0_mF0F0A2464F13A62B49BDF6BEB9ADA7AB6F265B88_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t U3CU3Ec_U3CStartU3Eb__42_0_mD5A60F4E253351C066A82C5FE6DBBABC97C10C8B_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t U3CU3Ec__DisplayClass8_0_U3C_ctorU3Eb__0_mDAD6BF9DA27ABE7A70B08FEBD04DE5B1C07F463F_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t U3CU3Ec__cctor_m023EF09F79F25EFEADA3D57B4AB7A81894F45705_MetadataUsageId;
@@ -774,7 +774,7 @@ IL2CPP_EXTERN_C const uint32_t iBeaconStatus_SaveiBeaconInfo_mCA47096254A0D50D78
 IL2CPP_EXTERN_C const uint32_t iBeaconStatus_SetBeaconProperties_m030F864D2A3E2FFA22ACF774839755E4ABD9D440_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t iBeaconStatus_SetBroadcastState_m81723254EDBF65023625B6B08BA10E3073958541_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t iBeaconStatus_StarReceive_mEE81DE728CFA8A69380B40F618EC14280604262C_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t iBeaconStatus_U3CBluetoothStatusU3Eb__38_1_mA46A180AF3F5FF0D67ADDD565B3003EBC6446272_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t iBeaconStatus_U3CBluetoothStatusU3Eb__39_1_mF82C6321FFB82F2AD1A41D7E927FFE5AAA946BA8_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t iBeaconStatus__ctor_mF6212FC04521E18A1C7EE0D9E9A3CEF290321532_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t iBeaconStatus_removeFoundBeacons_m475ECE25B39E57FC63D5196DE6D126FA29E30867_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t iBeaconStatus_setBeaconPropertiesAtStart_m6EBED5F6568DE032A22ADF8BC098F66619D69B8B_MetadataUsageId;
@@ -1551,8 +1551,8 @@ struct U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields
 public:
 	// iBeaconStatus_<>c iBeaconStatus_<>c::<>9
 	U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421 * ___U3CU3E9_0;
-	// UnityEngine.Events.UnityAction iBeaconStatus_<>c::<>9__38_0
-	UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * ___U3CU3E9__38_0_1;
+	// UnityEngine.Events.UnityAction iBeaconStatus_<>c::<>9__39_0
+	UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * ___U3CU3E9__39_0_1;
 
 public:
 	inline static int32_t get_offset_of_U3CU3E9_0() { return static_cast<int32_t>(offsetof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields, ___U3CU3E9_0)); }
@@ -1564,13 +1564,13 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CU3E9_0), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CU3E9__38_0_1() { return static_cast<int32_t>(offsetof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields, ___U3CU3E9__38_0_1)); }
-	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * get_U3CU3E9__38_0_1() const { return ___U3CU3E9__38_0_1; }
-	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 ** get_address_of_U3CU3E9__38_0_1() { return &___U3CU3E9__38_0_1; }
-	inline void set_U3CU3E9__38_0_1(UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * value)
+	inline static int32_t get_offset_of_U3CU3E9__39_0_1() { return static_cast<int32_t>(offsetof(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields, ___U3CU3E9__39_0_1)); }
+	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * get_U3CU3E9__39_0_1() const { return ___U3CU3E9__39_0_1; }
+	inline UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 ** get_address_of_U3CU3E9__39_0_1() { return &___U3CU3E9__39_0_1; }
+	inline void set_U3CU3E9__39_0_1(UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * value)
 	{
-		___U3CU3E9__38_0_1 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___U3CU3E9__38_0_1), (void*)value);
+		___U3CU3E9__39_0_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___U3CU3E9__39_0_1), (void*)value);
 	}
 };
 
@@ -6990,68 +6990,70 @@ public:
 	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___cube1_5;
 	// UnityEngine.GameObject iBeaconStatus::cube2
 	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___cube2_6;
+	// UnityEngine.GameObject iBeaconStatus::cylinder
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___cylinder_7;
 	// UnityEngine.Camera iBeaconStatus::ARCamera
-	Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * ___ARCamera_7;
+	Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * ___ARCamera_8;
 	// UnityEngine.UI.Text iBeaconStatus::AddSecond
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___AddSecond_8;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___AddSecond_9;
 	// UnityEngine.UI.Text iBeaconStatus::_statusText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____statusText_9;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____statusText_10;
 	// UnityEngine.UI.Button iBeaconStatus::_bluetoothButton
-	Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * ____bluetoothButton_10;
+	Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * ____bluetoothButton_11;
 	// UnityEngine.GameObject iBeaconStatus::_statusScreen
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____statusScreen_11;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____statusScreen_12;
 	// UnityEngine.GameObject iBeaconStatus::_menuScreen
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____menuScreen_12;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ____menuScreen_13;
 	// UnityEngine.UI.Text iBeaconStatus::_bluetoothText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____bluetoothText_13;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ____bluetoothText_14;
 	// BeaconType iBeaconStatus::bt_PendingType
-	int32_t ___bt_PendingType_14;
+	int32_t ___bt_PendingType_15;
 	// BeaconType iBeaconStatus::bt_Type
-	int32_t ___bt_Type_15;
+	int32_t ___bt_Type_16;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualType
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualType_16;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualType_17;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualRegion
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualRegion_17;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualRegion_18;
 	// System.String iBeaconStatus::s_Region
-	String_t* ___s_Region_18;
+	String_t* ___s_Region_19;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualUUID
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualUUID_19;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualUUID_20;
 	// System.String iBeaconStatus::s_UUID
-	String_t* ___s_UUID_20;
+	String_t* ___s_UUID_21;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualMajor
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMajor_21;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMajor_22;
 	// System.String iBeaconStatus::s_Major
-	String_t* ___s_Major_22;
+	String_t* ___s_Major_23;
 	// UnityEngine.UI.Text iBeaconStatus::txt_actualMinor
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMinor_23;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_actualMinor_24;
 	// System.String iBeaconStatus::s_Minor
-	String_t* ___s_Minor_24;
+	String_t* ___s_Minor_25;
 	// BroadcastMode iBeaconStatus::bm_Mode
-	int32_t ___bm_Mode_25;
+	int32_t ___bm_Mode_26;
 	// UnityEngine.UI.Image iBeaconStatus::img_ButtonBroadcastState
-	Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * ___img_ButtonBroadcastState_26;
+	Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * ___img_ButtonBroadcastState_27;
 	// UnityEngine.UI.Text iBeaconStatus::txt_BroadcastState_ButtonText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_ButtonText_27;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_ButtonText_28;
 	// UnityEngine.UI.Text iBeaconStatus::txt_BroadcastState_LabelText
-	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_LabelText_28;
+	Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * ___txt_BroadcastState_LabelText_29;
 	// BroadcastState iBeaconStatus::bs_State
-	int32_t ___bs_State_29;
+	int32_t ___bs_State_30;
 	// UnityEngine.GameObject iBeaconStatus::go_ScrollViewContent
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_ScrollViewContent_30;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_ScrollViewContent_31;
 	// UnityEngine.GameObject iBeaconStatus::go_FoundBeacon
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeacon_31;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeacon_32;
 	// System.Collections.Generic.List`1<UnityEngine.GameObject> iBeaconStatus::go_FoundBeaconCloneList
-	List_1_t3D4152882C54B77C712688E910390D5C8E030463 * ___go_FoundBeaconCloneList_32;
+	List_1_t3D4152882C54B77C712688E910390D5C8E030463 * ___go_FoundBeaconCloneList_33;
 	// UnityEngine.GameObject iBeaconStatus::go_FoundBeaconClone
-	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeaconClone_33;
+	GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * ___go_FoundBeaconClone_34;
 	// System.Single iBeaconStatus::f_ScrollViewContentRectWidth
-	float ___f_ScrollViewContentRectWidth_34;
+	float ___f_ScrollViewContentRectWidth_35;
 	// System.Single iBeaconStatus::f_ScrollViewContentRectHeight
-	float ___f_ScrollViewContentRectHeight_35;
+	float ___f_ScrollViewContentRectHeight_36;
 	// System.Int32 iBeaconStatus::i_BeaconCounter
-	int32_t ___i_BeaconCounter_36;
+	int32_t ___i_BeaconCounter_37;
 	// System.Collections.Generic.List`1<Beacon> iBeaconStatus::mybeacons
-	List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * ___mybeacons_37;
+	List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * ___mybeacons_38;
 
 public:
 	inline static int32_t get_offset_of_resultPosition_4() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___resultPosition_4)); }
@@ -7081,276 +7083,285 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___cube2_6), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_ARCamera_7() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___ARCamera_7)); }
-	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * get_ARCamera_7() const { return ___ARCamera_7; }
-	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 ** get_address_of_ARCamera_7() { return &___ARCamera_7; }
-	inline void set_ARCamera_7(Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * value)
+	inline static int32_t get_offset_of_cylinder_7() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___cylinder_7)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_cylinder_7() const { return ___cylinder_7; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_cylinder_7() { return &___cylinder_7; }
+	inline void set_cylinder_7(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___ARCamera_7 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___ARCamera_7), (void*)value);
+		___cylinder_7 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___cylinder_7), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_AddSecond_8() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___AddSecond_8)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_AddSecond_8() const { return ___AddSecond_8; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_AddSecond_8() { return &___AddSecond_8; }
-	inline void set_AddSecond_8(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_ARCamera_8() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___ARCamera_8)); }
+	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * get_ARCamera_8() const { return ___ARCamera_8; }
+	inline Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 ** get_address_of_ARCamera_8() { return &___ARCamera_8; }
+	inline void set_ARCamera_8(Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * value)
 	{
-		___AddSecond_8 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___AddSecond_8), (void*)value);
+		___ARCamera_8 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___ARCamera_8), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__statusText_9() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusText_9)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__statusText_9() const { return ____statusText_9; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__statusText_9() { return &____statusText_9; }
-	inline void set__statusText_9(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_AddSecond_9() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___AddSecond_9)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_AddSecond_9() const { return ___AddSecond_9; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_AddSecond_9() { return &___AddSecond_9; }
+	inline void set_AddSecond_9(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		____statusText_9 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____statusText_9), (void*)value);
+		___AddSecond_9 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___AddSecond_9), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__bluetoothButton_10() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothButton_10)); }
-	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * get__bluetoothButton_10() const { return ____bluetoothButton_10; }
-	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B ** get_address_of__bluetoothButton_10() { return &____bluetoothButton_10; }
-	inline void set__bluetoothButton_10(Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * value)
+	inline static int32_t get_offset_of__statusText_10() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusText_10)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__statusText_10() const { return ____statusText_10; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__statusText_10() { return &____statusText_10; }
+	inline void set__statusText_10(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		____bluetoothButton_10 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothButton_10), (void*)value);
+		____statusText_10 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____statusText_10), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__statusScreen_11() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusScreen_11)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__statusScreen_11() const { return ____statusScreen_11; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__statusScreen_11() { return &____statusScreen_11; }
-	inline void set__statusScreen_11(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of__bluetoothButton_11() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothButton_11)); }
+	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * get__bluetoothButton_11() const { return ____bluetoothButton_11; }
+	inline Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B ** get_address_of__bluetoothButton_11() { return &____bluetoothButton_11; }
+	inline void set__bluetoothButton_11(Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * value)
 	{
-		____statusScreen_11 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____statusScreen_11), (void*)value);
+		____bluetoothButton_11 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothButton_11), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__menuScreen_12() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____menuScreen_12)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__menuScreen_12() const { return ____menuScreen_12; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__menuScreen_12() { return &____menuScreen_12; }
-	inline void set__menuScreen_12(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of__statusScreen_12() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____statusScreen_12)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__statusScreen_12() const { return ____statusScreen_12; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__statusScreen_12() { return &____statusScreen_12; }
+	inline void set__statusScreen_12(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		____menuScreen_12 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____menuScreen_12), (void*)value);
+		____statusScreen_12 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____statusScreen_12), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__bluetoothText_13() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothText_13)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__bluetoothText_13() const { return ____bluetoothText_13; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__bluetoothText_13() { return &____bluetoothText_13; }
-	inline void set__bluetoothText_13(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of__menuScreen_13() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____menuScreen_13)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get__menuScreen_13() const { return ____menuScreen_13; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of__menuScreen_13() { return &____menuScreen_13; }
+	inline void set__menuScreen_13(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		____bluetoothText_13 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothText_13), (void*)value);
+		____menuScreen_13 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____menuScreen_13), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bt_PendingType_14() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_PendingType_14)); }
-	inline int32_t get_bt_PendingType_14() const { return ___bt_PendingType_14; }
-	inline int32_t* get_address_of_bt_PendingType_14() { return &___bt_PendingType_14; }
-	inline void set_bt_PendingType_14(int32_t value)
+	inline static int32_t get_offset_of__bluetoothText_14() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ____bluetoothText_14)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get__bluetoothText_14() const { return ____bluetoothText_14; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of__bluetoothText_14() { return &____bluetoothText_14; }
+	inline void set__bluetoothText_14(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___bt_PendingType_14 = value;
+		____bluetoothText_14 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____bluetoothText_14), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bt_Type_15() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_Type_15)); }
-	inline int32_t get_bt_Type_15() const { return ___bt_Type_15; }
-	inline int32_t* get_address_of_bt_Type_15() { return &___bt_Type_15; }
-	inline void set_bt_Type_15(int32_t value)
+	inline static int32_t get_offset_of_bt_PendingType_15() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_PendingType_15)); }
+	inline int32_t get_bt_PendingType_15() const { return ___bt_PendingType_15; }
+	inline int32_t* get_address_of_bt_PendingType_15() { return &___bt_PendingType_15; }
+	inline void set_bt_PendingType_15(int32_t value)
 	{
-		___bt_Type_15 = value;
+		___bt_PendingType_15 = value;
 	}
 
-	inline static int32_t get_offset_of_txt_actualType_16() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualType_16)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualType_16() const { return ___txt_actualType_16; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualType_16() { return &___txt_actualType_16; }
-	inline void set_txt_actualType_16(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_bt_Type_16() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bt_Type_16)); }
+	inline int32_t get_bt_Type_16() const { return ___bt_Type_16; }
+	inline int32_t* get_address_of_bt_Type_16() { return &___bt_Type_16; }
+	inline void set_bt_Type_16(int32_t value)
 	{
-		___txt_actualType_16 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualType_16), (void*)value);
+		___bt_Type_16 = value;
 	}
 
-	inline static int32_t get_offset_of_txt_actualRegion_17() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualRegion_17)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualRegion_17() const { return ___txt_actualRegion_17; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualRegion_17() { return &___txt_actualRegion_17; }
-	inline void set_txt_actualRegion_17(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_txt_actualType_17() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualType_17)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualType_17() const { return ___txt_actualType_17; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualType_17() { return &___txt_actualType_17; }
+	inline void set_txt_actualType_17(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___txt_actualRegion_17 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualRegion_17), (void*)value);
+		___txt_actualType_17 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualType_17), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_Region_18() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Region_18)); }
-	inline String_t* get_s_Region_18() const { return ___s_Region_18; }
-	inline String_t** get_address_of_s_Region_18() { return &___s_Region_18; }
-	inline void set_s_Region_18(String_t* value)
+	inline static int32_t get_offset_of_txt_actualRegion_18() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualRegion_18)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualRegion_18() const { return ___txt_actualRegion_18; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualRegion_18() { return &___txt_actualRegion_18; }
+	inline void set_txt_actualRegion_18(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_Region_18 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_Region_18), (void*)value);
+		___txt_actualRegion_18 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualRegion_18), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_actualUUID_19() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualUUID_19)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualUUID_19() const { return ___txt_actualUUID_19; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualUUID_19() { return &___txt_actualUUID_19; }
-	inline void set_txt_actualUUID_19(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_s_Region_19() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Region_19)); }
+	inline String_t* get_s_Region_19() const { return ___s_Region_19; }
+	inline String_t** get_address_of_s_Region_19() { return &___s_Region_19; }
+	inline void set_s_Region_19(String_t* value)
 	{
-		___txt_actualUUID_19 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualUUID_19), (void*)value);
+		___s_Region_19 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_Region_19), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_UUID_20() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_UUID_20)); }
-	inline String_t* get_s_UUID_20() const { return ___s_UUID_20; }
-	inline String_t** get_address_of_s_UUID_20() { return &___s_UUID_20; }
-	inline void set_s_UUID_20(String_t* value)
+	inline static int32_t get_offset_of_txt_actualUUID_20() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualUUID_20)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualUUID_20() const { return ___txt_actualUUID_20; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualUUID_20() { return &___txt_actualUUID_20; }
+	inline void set_txt_actualUUID_20(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_UUID_20 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_UUID_20), (void*)value);
+		___txt_actualUUID_20 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualUUID_20), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_actualMajor_21() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMajor_21)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMajor_21() const { return ___txt_actualMajor_21; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMajor_21() { return &___txt_actualMajor_21; }
-	inline void set_txt_actualMajor_21(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_s_UUID_21() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_UUID_21)); }
+	inline String_t* get_s_UUID_21() const { return ___s_UUID_21; }
+	inline String_t** get_address_of_s_UUID_21() { return &___s_UUID_21; }
+	inline void set_s_UUID_21(String_t* value)
 	{
-		___txt_actualMajor_21 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMajor_21), (void*)value);
+		___s_UUID_21 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_UUID_21), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_Major_22() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Major_22)); }
-	inline String_t* get_s_Major_22() const { return ___s_Major_22; }
-	inline String_t** get_address_of_s_Major_22() { return &___s_Major_22; }
-	inline void set_s_Major_22(String_t* value)
+	inline static int32_t get_offset_of_txt_actualMajor_22() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMajor_22)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMajor_22() const { return ___txt_actualMajor_22; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMajor_22() { return &___txt_actualMajor_22; }
+	inline void set_txt_actualMajor_22(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_Major_22 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_Major_22), (void*)value);
+		___txt_actualMajor_22 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMajor_22), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_actualMinor_23() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMinor_23)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMinor_23() const { return ___txt_actualMinor_23; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMinor_23() { return &___txt_actualMinor_23; }
-	inline void set_txt_actualMinor_23(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_s_Major_23() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Major_23)); }
+	inline String_t* get_s_Major_23() const { return ___s_Major_23; }
+	inline String_t** get_address_of_s_Major_23() { return &___s_Major_23; }
+	inline void set_s_Major_23(String_t* value)
 	{
-		___txt_actualMinor_23 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMinor_23), (void*)value);
+		___s_Major_23 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_Major_23), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_s_Minor_24() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Minor_24)); }
-	inline String_t* get_s_Minor_24() const { return ___s_Minor_24; }
-	inline String_t** get_address_of_s_Minor_24() { return &___s_Minor_24; }
-	inline void set_s_Minor_24(String_t* value)
+	inline static int32_t get_offset_of_txt_actualMinor_24() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_actualMinor_24)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_actualMinor_24() const { return ___txt_actualMinor_24; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_actualMinor_24() { return &___txt_actualMinor_24; }
+	inline void set_txt_actualMinor_24(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___s_Minor_24 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___s_Minor_24), (void*)value);
+		___txt_actualMinor_24 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_actualMinor_24), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bm_Mode_25() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bm_Mode_25)); }
-	inline int32_t get_bm_Mode_25() const { return ___bm_Mode_25; }
-	inline int32_t* get_address_of_bm_Mode_25() { return &___bm_Mode_25; }
-	inline void set_bm_Mode_25(int32_t value)
+	inline static int32_t get_offset_of_s_Minor_25() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___s_Minor_25)); }
+	inline String_t* get_s_Minor_25() const { return ___s_Minor_25; }
+	inline String_t** get_address_of_s_Minor_25() { return &___s_Minor_25; }
+	inline void set_s_Minor_25(String_t* value)
 	{
-		___bm_Mode_25 = value;
+		___s_Minor_25 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_Minor_25), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_img_ButtonBroadcastState_26() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___img_ButtonBroadcastState_26)); }
-	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * get_img_ButtonBroadcastState_26() const { return ___img_ButtonBroadcastState_26; }
-	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E ** get_address_of_img_ButtonBroadcastState_26() { return &___img_ButtonBroadcastState_26; }
-	inline void set_img_ButtonBroadcastState_26(Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * value)
+	inline static int32_t get_offset_of_bm_Mode_26() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bm_Mode_26)); }
+	inline int32_t get_bm_Mode_26() const { return ___bm_Mode_26; }
+	inline int32_t* get_address_of_bm_Mode_26() { return &___bm_Mode_26; }
+	inline void set_bm_Mode_26(int32_t value)
 	{
-		___img_ButtonBroadcastState_26 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___img_ButtonBroadcastState_26), (void*)value);
+		___bm_Mode_26 = value;
 	}
 
-	inline static int32_t get_offset_of_txt_BroadcastState_ButtonText_27() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_ButtonText_27)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_ButtonText_27() const { return ___txt_BroadcastState_ButtonText_27; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_ButtonText_27() { return &___txt_BroadcastState_ButtonText_27; }
-	inline void set_txt_BroadcastState_ButtonText_27(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_img_ButtonBroadcastState_27() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___img_ButtonBroadcastState_27)); }
+	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * get_img_ButtonBroadcastState_27() const { return ___img_ButtonBroadcastState_27; }
+	inline Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E ** get_address_of_img_ButtonBroadcastState_27() { return &___img_ButtonBroadcastState_27; }
+	inline void set_img_ButtonBroadcastState_27(Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * value)
 	{
-		___txt_BroadcastState_ButtonText_27 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_ButtonText_27), (void*)value);
+		___img_ButtonBroadcastState_27 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___img_ButtonBroadcastState_27), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_txt_BroadcastState_LabelText_28() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_LabelText_28)); }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_LabelText_28() const { return ___txt_BroadcastState_LabelText_28; }
-	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_LabelText_28() { return &___txt_BroadcastState_LabelText_28; }
-	inline void set_txt_BroadcastState_LabelText_28(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
+	inline static int32_t get_offset_of_txt_BroadcastState_ButtonText_28() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_ButtonText_28)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_ButtonText_28() const { return ___txt_BroadcastState_ButtonText_28; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_ButtonText_28() { return &___txt_BroadcastState_ButtonText_28; }
+	inline void set_txt_BroadcastState_ButtonText_28(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___txt_BroadcastState_LabelText_28 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_LabelText_28), (void*)value);
+		___txt_BroadcastState_ButtonText_28 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_ButtonText_28), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_bs_State_29() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bs_State_29)); }
-	inline int32_t get_bs_State_29() const { return ___bs_State_29; }
-	inline int32_t* get_address_of_bs_State_29() { return &___bs_State_29; }
-	inline void set_bs_State_29(int32_t value)
+	inline static int32_t get_offset_of_txt_BroadcastState_LabelText_29() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___txt_BroadcastState_LabelText_29)); }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * get_txt_BroadcastState_LabelText_29() const { return ___txt_BroadcastState_LabelText_29; }
+	inline Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 ** get_address_of_txt_BroadcastState_LabelText_29() { return &___txt_BroadcastState_LabelText_29; }
+	inline void set_txt_BroadcastState_LabelText_29(Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * value)
 	{
-		___bs_State_29 = value;
+		___txt_BroadcastState_LabelText_29 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___txt_BroadcastState_LabelText_29), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_go_ScrollViewContent_30() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_ScrollViewContent_30)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_ScrollViewContent_30() const { return ___go_ScrollViewContent_30; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_ScrollViewContent_30() { return &___go_ScrollViewContent_30; }
-	inline void set_go_ScrollViewContent_30(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of_bs_State_30() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___bs_State_30)); }
+	inline int32_t get_bs_State_30() const { return ___bs_State_30; }
+	inline int32_t* get_address_of_bs_State_30() { return &___bs_State_30; }
+	inline void set_bs_State_30(int32_t value)
 	{
-		___go_ScrollViewContent_30 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_ScrollViewContent_30), (void*)value);
+		___bs_State_30 = value;
 	}
 
-	inline static int32_t get_offset_of_go_FoundBeacon_31() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeacon_31)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeacon_31() const { return ___go_FoundBeacon_31; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeacon_31() { return &___go_FoundBeacon_31; }
-	inline void set_go_FoundBeacon_31(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of_go_ScrollViewContent_31() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_ScrollViewContent_31)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_ScrollViewContent_31() const { return ___go_ScrollViewContent_31; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_ScrollViewContent_31() { return &___go_ScrollViewContent_31; }
+	inline void set_go_ScrollViewContent_31(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___go_FoundBeacon_31 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeacon_31), (void*)value);
+		___go_ScrollViewContent_31 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_ScrollViewContent_31), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_go_FoundBeaconCloneList_32() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconCloneList_32)); }
-	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 * get_go_FoundBeaconCloneList_32() const { return ___go_FoundBeaconCloneList_32; }
-	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 ** get_address_of_go_FoundBeaconCloneList_32() { return &___go_FoundBeaconCloneList_32; }
-	inline void set_go_FoundBeaconCloneList_32(List_1_t3D4152882C54B77C712688E910390D5C8E030463 * value)
+	inline static int32_t get_offset_of_go_FoundBeacon_32() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeacon_32)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeacon_32() const { return ___go_FoundBeacon_32; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeacon_32() { return &___go_FoundBeacon_32; }
+	inline void set_go_FoundBeacon_32(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___go_FoundBeaconCloneList_32 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconCloneList_32), (void*)value);
+		___go_FoundBeacon_32 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeacon_32), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_go_FoundBeaconClone_33() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconClone_33)); }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeaconClone_33() const { return ___go_FoundBeaconClone_33; }
-	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeaconClone_33() { return &___go_FoundBeaconClone_33; }
-	inline void set_go_FoundBeaconClone_33(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
+	inline static int32_t get_offset_of_go_FoundBeaconCloneList_33() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconCloneList_33)); }
+	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 * get_go_FoundBeaconCloneList_33() const { return ___go_FoundBeaconCloneList_33; }
+	inline List_1_t3D4152882C54B77C712688E910390D5C8E030463 ** get_address_of_go_FoundBeaconCloneList_33() { return &___go_FoundBeaconCloneList_33; }
+	inline void set_go_FoundBeaconCloneList_33(List_1_t3D4152882C54B77C712688E910390D5C8E030463 * value)
 	{
-		___go_FoundBeaconClone_33 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconClone_33), (void*)value);
+		___go_FoundBeaconCloneList_33 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconCloneList_33), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_f_ScrollViewContentRectWidth_34() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectWidth_34)); }
-	inline float get_f_ScrollViewContentRectWidth_34() const { return ___f_ScrollViewContentRectWidth_34; }
-	inline float* get_address_of_f_ScrollViewContentRectWidth_34() { return &___f_ScrollViewContentRectWidth_34; }
-	inline void set_f_ScrollViewContentRectWidth_34(float value)
+	inline static int32_t get_offset_of_go_FoundBeaconClone_34() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___go_FoundBeaconClone_34)); }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * get_go_FoundBeaconClone_34() const { return ___go_FoundBeaconClone_34; }
+	inline GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F ** get_address_of_go_FoundBeaconClone_34() { return &___go_FoundBeaconClone_34; }
+	inline void set_go_FoundBeaconClone_34(GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * value)
 	{
-		___f_ScrollViewContentRectWidth_34 = value;
+		___go_FoundBeaconClone_34 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___go_FoundBeaconClone_34), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_f_ScrollViewContentRectHeight_35() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectHeight_35)); }
-	inline float get_f_ScrollViewContentRectHeight_35() const { return ___f_ScrollViewContentRectHeight_35; }
-	inline float* get_address_of_f_ScrollViewContentRectHeight_35() { return &___f_ScrollViewContentRectHeight_35; }
-	inline void set_f_ScrollViewContentRectHeight_35(float value)
+	inline static int32_t get_offset_of_f_ScrollViewContentRectWidth_35() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectWidth_35)); }
+	inline float get_f_ScrollViewContentRectWidth_35() const { return ___f_ScrollViewContentRectWidth_35; }
+	inline float* get_address_of_f_ScrollViewContentRectWidth_35() { return &___f_ScrollViewContentRectWidth_35; }
+	inline void set_f_ScrollViewContentRectWidth_35(float value)
 	{
-		___f_ScrollViewContentRectHeight_35 = value;
+		___f_ScrollViewContentRectWidth_35 = value;
 	}
 
-	inline static int32_t get_offset_of_i_BeaconCounter_36() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___i_BeaconCounter_36)); }
-	inline int32_t get_i_BeaconCounter_36() const { return ___i_BeaconCounter_36; }
-	inline int32_t* get_address_of_i_BeaconCounter_36() { return &___i_BeaconCounter_36; }
-	inline void set_i_BeaconCounter_36(int32_t value)
+	inline static int32_t get_offset_of_f_ScrollViewContentRectHeight_36() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___f_ScrollViewContentRectHeight_36)); }
+	inline float get_f_ScrollViewContentRectHeight_36() const { return ___f_ScrollViewContentRectHeight_36; }
+	inline float* get_address_of_f_ScrollViewContentRectHeight_36() { return &___f_ScrollViewContentRectHeight_36; }
+	inline void set_f_ScrollViewContentRectHeight_36(float value)
 	{
-		___i_BeaconCounter_36 = value;
+		___f_ScrollViewContentRectHeight_36 = value;
 	}
 
-	inline static int32_t get_offset_of_mybeacons_37() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___mybeacons_37)); }
-	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * get_mybeacons_37() const { return ___mybeacons_37; }
-	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E ** get_address_of_mybeacons_37() { return &___mybeacons_37; }
-	inline void set_mybeacons_37(List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * value)
+	inline static int32_t get_offset_of_i_BeaconCounter_37() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___i_BeaconCounter_37)); }
+	inline int32_t get_i_BeaconCounter_37() const { return ___i_BeaconCounter_37; }
+	inline int32_t* get_address_of_i_BeaconCounter_37() { return &___i_BeaconCounter_37; }
+	inline void set_i_BeaconCounter_37(int32_t value)
 	{
-		___mybeacons_37 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___mybeacons_37), (void*)value);
+		___i_BeaconCounter_37 = value;
+	}
+
+	inline static int32_t get_offset_of_mybeacons_38() { return static_cast<int32_t>(offsetof(iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE, ___mybeacons_38)); }
+	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * get_mybeacons_38() const { return ___mybeacons_38; }
+	inline List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E ** get_address_of_mybeacons_38() { return &___mybeacons_38; }
+	inline void set_mybeacons_38(List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * value)
+	{
+		___mybeacons_38 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___mybeacons_38), (void*)value);
 	}
 };
 
@@ -18515,9 +18526,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_setBeaconPropertiesAtStart
 	int32_t V_0 = 0;
 	{
 		// bm_Mode = BroadcastMode.receive;
-		__this->set_bm_Mode_25(1);
+		__this->set_bm_Mode_26(1);
 		// bt_Type = BeaconType.iBeacon;
-		__this->set_bt_Type_15(1);
+		__this->set_bt_Type_16(1);
 		// if (iBeaconReceiver.regions.Length != 0)
 		IL2CPP_RUNTIME_CLASS_INIT(iBeaconReceiver_t43A0131A8BD99AFFE4033418979482BBCA876C0F_il2cpp_TypeInfo_var);
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_0 = iBeaconReceiver_get_regions_m11B18F822ED247153954AF8CCD565BD2CFFB22D5(/*hidden argument*/NULL);
@@ -18539,7 +18550,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_setBeaconPropertiesAtStart
 		iBeaconRegion_t5C666E55D6EB9CB88EC29B58B305A5C217BBC607 * L_3 = (L_1)->GetAt(static_cast<il2cpp_array_size_t>(L_2));
 		NullCheck(L_3);
 		String_t* L_4 = iBeaconRegion_get_regionName_mAF26ED1C0EBB4A3157644A712A6B5E0E65BA1EBD_inline(L_3, /*hidden argument*/NULL);
-		__this->set_s_Region_18(L_4);
+		__this->set_s_Region_19(L_4);
 		// bt_Type = iBeaconReceiver.regions[0].beacon.type;
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_5 = iBeaconReceiver_get_regions_m11B18F822ED247153954AF8CCD565BD2CFFB22D5(/*hidden argument*/NULL);
 		NullCheck(L_5);
@@ -18549,7 +18560,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_setBeaconPropertiesAtStart
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_8 = iBeaconRegion_get_beacon_mB58517ACE26B6CFB38E569DE09C6DC306A4C1A06_inline(L_7, /*hidden argument*/NULL);
 		NullCheck(L_8);
 		int32_t L_9 = Beacon_get_type_m0617595D89A672527F769A0F08BFA9A5C242D291_inline(L_8, /*hidden argument*/NULL);
-		__this->set_bt_Type_15(L_9);
+		__this->set_bt_Type_16(L_9);
 		// s_UUID = iBeaconReceiver.regions[0].beacon.UUID;
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_10 = iBeaconReceiver_get_regions_m11B18F822ED247153954AF8CCD565BD2CFFB22D5(/*hidden argument*/NULL);
 		NullCheck(L_10);
@@ -18559,7 +18570,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_setBeaconPropertiesAtStart
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_13 = iBeaconRegion_get_beacon_mB58517ACE26B6CFB38E569DE09C6DC306A4C1A06_inline(L_12, /*hidden argument*/NULL);
 		NullCheck(L_13);
 		String_t* L_14 = Beacon_get_UUID_mE407AEC599EDBE637DDB20AF4CFB015FB78E425B_inline(L_13, /*hidden argument*/NULL);
-		__this->set_s_UUID_20(L_14);
+		__this->set_s_UUID_21(L_14);
 		// s_Major = iBeaconReceiver.regions[0].beacon.major.ToString();
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_15 = iBeaconReceiver_get_regions_m11B18F822ED247153954AF8CCD565BD2CFFB22D5(/*hidden argument*/NULL);
 		NullCheck(L_15);
@@ -18571,7 +18582,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_setBeaconPropertiesAtStart
 		int32_t L_19 = Beacon_get_major_m46BA7D162D6BD4956BD8AA065796C0D99FEC3A40_inline(L_18, /*hidden argument*/NULL);
 		V_0 = L_19;
 		String_t* L_20 = Int32_ToString_m1863896DE712BF97C031D55B12E1583F1982DC02((int32_t*)(&V_0), /*hidden argument*/NULL);
-		__this->set_s_Major_22(L_20);
+		__this->set_s_Major_23(L_20);
 		// s_Minor = iBeaconReceiver.regions[0].beacon.minor.ToString();
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_21 = iBeaconReceiver_get_regions_m11B18F822ED247153954AF8CCD565BD2CFFB22D5(/*hidden argument*/NULL);
 		NullCheck(L_21);
@@ -18583,13 +18594,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_setBeaconPropertiesAtStart
 		int32_t L_25 = Beacon_get_minor_mF7831149DA99977D8B482C1A391D3EA0DE0B0879_inline(L_24, /*hidden argument*/NULL);
 		V_0 = L_25;
 		String_t* L_26 = Int32_ToString_m1863896DE712BF97C031D55B12E1583F1982DC02((int32_t*)(&V_0), /*hidden argument*/NULL);
-		__this->set_s_Minor_24(L_26);
+		__this->set_s_Minor_25(L_26);
 	}
 
 IL_00a1:
 	{
 		// bs_State = BroadcastState.inactive;
-		__this->set_bs_State_29(0);
+		__this->set_bs_State_30(0);
 		// SetBeaconProperties();
 		iBeaconStatus_SetBeaconProperties_m030F864D2A3E2FFA22ACF774839755E4ABD9D440(__this, /*hidden argument*/NULL);
 		// SetBroadcastState();
@@ -18612,8 +18623,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SetBeaconProperties_m030F8
 	}
 	{
 		// txt_actualType.text = bt_Type.ToString();
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_0 = __this->get_txt_actualType_16();
-		int32_t* L_1 = __this->get_address_of_bt_Type_15();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_0 = __this->get_txt_actualType_17();
+		int32_t* L_1 = __this->get_address_of_bt_Type_16();
 		RuntimeObject * L_2 = Box(BeaconType_t6F651FD6AB6CA7EC3CA1498276CCE74212C6AC49_il2cpp_TypeInfo_var, L_1);
 		NullCheck(L_2);
 		String_t* L_3 = VirtFuncInvoker0< String_t* >::Invoke(3 /* System.String System.Object::ToString() */, L_2);
@@ -18621,12 +18632,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SetBeaconProperties_m030F8
 		NullCheck(L_0);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_0, L_3);
 		// txt_actualRegion.text = s_Region;
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_4 = __this->get_txt_actualRegion_17();
-		String_t* L_5 = __this->get_s_Region_18();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_4 = __this->get_txt_actualRegion_18();
+		String_t* L_5 = __this->get_s_Region_19();
 		NullCheck(L_4);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_4, L_5);
 		// if(bt_Type == BeaconType.iBeacon)
-		int32_t L_6 = __this->get_bt_Type_15();
+		int32_t L_6 = __this->get_bt_Type_16();
 		if ((!(((uint32_t)L_6) == ((uint32_t)1))))
 		{
 			goto IL_0069;
@@ -18634,18 +18645,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SetBeaconProperties_m030F8
 	}
 	{
 		// txt_actualUUID.text = s_UUID;
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_7 = __this->get_txt_actualUUID_19();
-		String_t* L_8 = __this->get_s_UUID_20();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_7 = __this->get_txt_actualUUID_20();
+		String_t* L_8 = __this->get_s_UUID_21();
 		NullCheck(L_7);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_7, L_8);
 		// txt_actualMajor.text = s_Major;
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_9 = __this->get_txt_actualMajor_21();
-		String_t* L_10 = __this->get_s_Major_22();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_9 = __this->get_txt_actualMajor_22();
+		String_t* L_10 = __this->get_s_Major_23();
 		NullCheck(L_9);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_9, L_10);
 		// txt_actualMinor.text = s_Minor;
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_11 = __this->get_txt_actualMinor_23();
-		String_t* L_12 = __this->get_s_Minor_24();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_11 = __this->get_txt_actualMinor_24();
+		String_t* L_12 = __this->get_s_Minor_25();
 		NullCheck(L_11);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_11, L_12);
 	}
@@ -18667,7 +18678,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SetBroadcastState_m8172325
 	}
 	{
 		// if (bs_State == BroadcastState.inactive)
-		int32_t L_0 = __this->get_bs_State_29();
+		int32_t L_0 = __this->get_bs_State_30();
 		if (L_0)
 		{
 			goto IL_001a;
@@ -18675,7 +18686,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SetBroadcastState_m8172325
 	}
 	{
 		// txt_BroadcastState_ButtonText.text = "Start";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_1 = __this->get_txt_BroadcastState_ButtonText_27();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_1 = __this->get_txt_BroadcastState_ButtonText_28();
 		NullCheck(L_1);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_1, _stringLiteral952F375412E89FF213A8ACA383D18E5691354347);
 		goto IL_002a;
@@ -18684,7 +18695,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SetBroadcastState_m8172325
 IL_001a:
 	{
 		// txt_BroadcastState_ButtonText.text = "Stop";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_2 = __this->get_txt_BroadcastState_ButtonText_27();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_2 = __this->get_txt_BroadcastState_ButtonText_28();
 		NullCheck(L_2);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_2, _stringLiteral9E253470C876EE6D5C720EB777AEB82D4C26E28F);
 	}
@@ -18692,8 +18703,8 @@ IL_001a:
 IL_002a:
 	{
 		// txt_BroadcastState_LabelText.text = bs_State.ToString();
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_3 = __this->get_txt_BroadcastState_LabelText_28();
-		int32_t* L_4 = __this->get_address_of_bs_State_29();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_3 = __this->get_txt_BroadcastState_LabelText_29();
+		int32_t* L_4 = __this->get_address_of_bs_State_30();
 		RuntimeObject * L_5 = Box(BroadcastState_t16D4A451D29E58B8181255E6A7D9DCBF48FCBF23_il2cpp_TypeInfo_var, L_4);
 		NullCheck(L_5);
 		String_t* L_6 = VirtFuncInvoker0< String_t* >::Invoke(3 /* System.String System.Object::ToString() */, L_5);
@@ -18723,11 +18734,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_BluetoothStatus_m1A4C49A8E
 		// _bluetoothButton.onClick.AddListener(delegate () {
 		//     BluetoothState.EnableBluetooth();
 		// });
-		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_0 = __this->get__bluetoothButton_10();
+		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_0 = __this->get__bluetoothButton_11();
 		NullCheck(L_0);
 		ButtonClickedEvent_t975D9C903BC4880557ADD7D3ACFB01CB2B3D6DDB * L_1 = Button_get_onClick_m77E8CA6917881760CC7900930F4C789F3E2F8817_inline(L_0, /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var);
-		UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * L_2 = ((U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var))->get_U3CU3E9__38_0_1();
+		UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * L_2 = ((U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var))->get_U3CU3E9__39_0_1();
 		UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * L_3 = L_2;
 		G_B1_0 = L_3;
 		G_B1_1 = L_1;
@@ -18742,9 +18753,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_BluetoothStatus_m1A4C49A8E
 		IL2CPP_RUNTIME_CLASS_INIT(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var);
 		U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421 * L_4 = ((U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var))->get_U3CU3E9_0();
 		UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * L_5 = (UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 *)il2cpp_codegen_object_new(UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4_il2cpp_TypeInfo_var);
-		UnityAction__ctor_mEFC4B92529CE83DF72501F92E07EC5598C54BDAC(L_5, L_4, (intptr_t)((intptr_t)U3CU3Ec_U3CBluetoothStatusU3Eb__38_0_m5B543E21ECB8A7726B8289DE15F58ED6118D6117_RuntimeMethod_var), /*hidden argument*/NULL);
+		UnityAction__ctor_mEFC4B92529CE83DF72501F92E07EC5598C54BDAC(L_5, L_4, (intptr_t)((intptr_t)U3CU3Ec_U3CBluetoothStatusU3Eb__39_0_mF0F0A2464F13A62B49BDF6BEB9ADA7AB6F265B88_RuntimeMethod_var), /*hidden argument*/NULL);
 		UnityAction_tD19B26F1B2C048E38FD5801A33573BE01064CAF4 * L_6 = L_5;
-		((U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var))->set_U3CU3E9__38_0_1(L_6);
+		((U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421_il2cpp_TypeInfo_var))->set_U3CU3E9__39_0_1(L_6);
 		G_B2_0 = L_6;
 		G_B2_1 = G_B1_1;
 	}
@@ -18754,10 +18765,10 @@ IL_002a:
 		NullCheck(G_B2_1);
 		UnityEvent_AddListener_m31973FDDC5BB0B2828AB6EF519EC4FD6563499C9(G_B2_1, G_B2_0, /*hidden argument*/NULL);
 		// _bluetoothText = _bluetoothButton.GetComponentInChildren<Text>();
-		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_7 = __this->get__bluetoothButton_10();
+		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_7 = __this->get__bluetoothButton_11();
 		NullCheck(L_7);
 		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_8 = Component_GetComponentInChildren_TisText_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030_mB668286E3BFCCA98A7FB16694BBA0E70A8FF6A4F(L_7, /*hidden argument*/Component_GetComponentInChildren_TisText_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030_mB668286E3BFCCA98A7FB16694BBA0E70A8FF6A4F_RuntimeMethod_var);
-		__this->set__bluetoothText_13(L_8);
+		__this->set__bluetoothText_14(L_8);
 		// Debug.Log("BluetoothLowEnergyState: ");
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t7B5FCB117E2FD63B6838BC52821B252E2BFB61C4_il2cpp_TypeInfo_var);
 		Debug_Log_m4B7C70BAFD477C6BDB59C88A0934F0B018D03708(_stringLiteralD153CCEC8E6EBC2E0E7F31D0F28910858EEF8159, /*hidden argument*/NULL);
@@ -18804,27 +18815,27 @@ IL_002a:
 		//     }
 		// };
 		BluetoothStateChanged_t795820F12512E5B80A7737D6836A41A7E0C59DEF * L_9 = (BluetoothStateChanged_t795820F12512E5B80A7737D6836A41A7E0C59DEF *)il2cpp_codegen_object_new(BluetoothStateChanged_t795820F12512E5B80A7737D6836A41A7E0C59DEF_il2cpp_TypeInfo_var);
-		BluetoothStateChanged__ctor_m52012536BDF1F17C7025CB72804B0E0E87E22182(L_9, __this, (intptr_t)((intptr_t)iBeaconStatus_U3CBluetoothStatusU3Eb__38_1_mA46A180AF3F5FF0D67ADDD565B3003EBC6446272_RuntimeMethod_var), /*hidden argument*/NULL);
+		BluetoothStateChanged__ctor_m52012536BDF1F17C7025CB72804B0E0E87E22182(L_9, __this, (intptr_t)((intptr_t)iBeaconStatus_U3CBluetoothStatusU3Eb__39_1_mF82C6321FFB82F2AD1A41D7E927FFE5AAA946BA8_RuntimeMethod_var), /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(BluetoothState_t26E5F938742C65B27F708548BC5D06AD6856713F_il2cpp_TypeInfo_var);
 		BluetoothState_add_BluetoothStateChangedEvent_mE71F4A718DD1AE921A5DDCE8F1DB219FF6B35B8E(L_9, /*hidden argument*/NULL);
 		// f_ScrollViewContentRectWidth = ((RectTransform)go_FoundBeacon.transform).rect.width;
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_10 = __this->get_go_FoundBeacon_31();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_10 = __this->get_go_FoundBeacon_32();
 		NullCheck(L_10);
 		Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_11 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_10, /*hidden argument*/NULL);
 		NullCheck(((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_11, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var)));
 		Rect_t35B976DE901B5423C11705E156938EA27AB402CE  L_12 = RectTransform_get_rect_mE5F283FCB99A66403AC1F0607CA49C156D73A15E(((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_11, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		V_0 = L_12;
 		float L_13 = Rect_get_width_m54FF69FC2C086E2DC349ED091FD0D6576BFB1484((Rect_t35B976DE901B5423C11705E156938EA27AB402CE *)(&V_0), /*hidden argument*/NULL);
-		__this->set_f_ScrollViewContentRectWidth_34(L_13);
+		__this->set_f_ScrollViewContentRectWidth_35(L_13);
 		// f_ScrollViewContentRectHeight = ((RectTransform)go_FoundBeacon.transform).rect.height;
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_14 = __this->get_go_FoundBeacon_31();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_14 = __this->get_go_FoundBeacon_32();
 		NullCheck(L_14);
 		Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_15 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_14, /*hidden argument*/NULL);
 		NullCheck(((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_15, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var)));
 		Rect_t35B976DE901B5423C11705E156938EA27AB402CE  L_16 = RectTransform_get_rect_mE5F283FCB99A66403AC1F0607CA49C156D73A15E(((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_15, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var)), /*hidden argument*/NULL);
 		V_0 = L_16;
 		float L_17 = Rect_get_height_m088C36990E0A255C5D7DCE36575DCE23ABB364B5((Rect_t35B976DE901B5423C11705E156938EA27AB402CE *)(&V_0), /*hidden argument*/NULL);
-		__this->set_f_ScrollViewContentRectHeight_35(L_17);
+		__this->set_f_ScrollViewContentRectHeight_36(L_17);
 		// BluetoothState.Init();
 		BluetoothState_Init_mBCD4FADF4980792E0C8D2E1582C0EE45F53FB273(/*hidden argument*/NULL);
 		// }
@@ -18836,11 +18847,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SwitchToStatus_m26218B7B66
 {
 	{
 		// _statusScreen.SetActive(true);
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get__statusScreen_11();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get__statusScreen_12();
 		NullCheck(L_0);
 		GameObject_SetActive_m25A39F6D9FB68C51F13313F9804E85ACC937BC04(L_0, (bool)1, /*hidden argument*/NULL);
 		// _menuScreen.SetActive(false);
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_1 = __this->get__menuScreen_12();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_1 = __this->get__menuScreen_13();
 		NullCheck(L_1);
 		GameObject_SetActive_m25A39F6D9FB68C51F13313F9804E85ACC937BC04(L_1, (bool)0, /*hidden argument*/NULL);
 		// }
@@ -18852,11 +18863,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SwitchToMenu_m83D4E187BCBB
 {
 	{
 		// _statusScreen.SetActive(false);
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get__statusScreen_11();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get__statusScreen_12();
 		NullCheck(L_0);
 		GameObject_SetActive_m25A39F6D9FB68C51F13313F9804E85ACC937BC04(L_0, (bool)0, /*hidden argument*/NULL);
 		// _menuScreen.SetActive(true);
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_1 = __this->get__menuScreen_12();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_1 = __this->get__menuScreen_13();
 		NullCheck(L_1);
 		GameObject_SetActive_m25A39F6D9FB68C51F13313F9804E85ACC937BC04(L_1, (bool)1, /*hidden argument*/NULL);
 		// }
@@ -18874,7 +18885,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_StarReceive_mEE81DE728CFA8
 	}
 	{
 		// if(bs_State == BroadcastState.inactive)
-		int32_t L_0 = __this->get_bs_State_29();
+		int32_t L_0 = __this->get_bs_State_30();
 		if (L_0)
 		{
 			goto IL_009c;
@@ -18882,7 +18893,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_StarReceive_mEE81DE728CFA8
 	}
 	{
 		// if(bm_Mode == BroadcastMode.receive)
-		int32_t L_1 = __this->get_bm_Mode_25();
+		int32_t L_1 = __this->get_bm_Mode_26();
 		if ((!(((uint32_t)L_1) == ((uint32_t)1))))
 		{
 			goto IL_0074;
@@ -18895,7 +18906,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_StarReceive_mEE81DE728CFA8
 		IL2CPP_RUNTIME_CLASS_INIT(iBeaconReceiver_t43A0131A8BD99AFFE4033418979482BBCA876C0F_il2cpp_TypeInfo_var);
 		iBeaconReceiver_add_BeaconRangeChangedEvent_m714CC62C835F2B6E70B8DF30FB79BC66E9397B87(L_2, /*hidden argument*/NULL);
 		// if(bt_Type == BeaconType.iBeacon)
-		int32_t L_3 = __this->get_bt_Type_15();
+		int32_t L_3 = __this->get_bt_Type_16();
 		if ((!(((uint32_t)L_3) == ((uint32_t)1))))
 		{
 			goto IL_006a;
@@ -18905,12 +18916,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_StarReceive_mEE81DE728CFA8
 		// iBeaconReceiver.regions = new iBeaconRegion[] { new iBeaconRegion(s_Region, new Beacon(s_UUID ,Convert.ToInt32(s_Major), Convert.ToInt32(s_Minor))) };
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_4 = (iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D*)(iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D*)SZArrayNew(iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D_il2cpp_TypeInfo_var, (uint32_t)1);
 		iBeaconRegionU5BU5D_t9F3E57765B411A6495722FFA1DF5F15E1109A42D* L_5 = L_4;
-		String_t* L_6 = __this->get_s_Region_18();
-		String_t* L_7 = __this->get_s_UUID_20();
-		String_t* L_8 = __this->get_s_Major_22();
+		String_t* L_6 = __this->get_s_Region_19();
+		String_t* L_7 = __this->get_s_UUID_21();
+		String_t* L_8 = __this->get_s_Major_23();
 		IL2CPP_RUNTIME_CLASS_INIT(Convert_t1C7A851BFB2F0782FD7F72F6AA1DCBB7B53A9C7E_il2cpp_TypeInfo_var);
 		int32_t L_9 = Convert_ToInt32_m9394611E7CF9B83AADB891D865FFE74002F80365(L_8, /*hidden argument*/NULL);
-		String_t* L_10 = __this->get_s_Minor_24();
+		String_t* L_10 = __this->get_s_Minor_25();
 		int32_t L_11 = Convert_ToInt32_m9394611E7CF9B83AADB891D865FFE74002F80365(L_10, /*hidden argument*/NULL);
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_12 = (Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD *)il2cpp_codegen_object_new(Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD_il2cpp_TypeInfo_var);
 		Beacon__ctor_m15E9A0C4A0403E2539B975A923725766D044900B(L_12, L_7, L_9, L_11, /*hidden argument*/NULL);
@@ -18941,9 +18952,9 @@ IL_0074:
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t7B5FCB117E2FD63B6838BC52821B252E2BFB61C4_il2cpp_TypeInfo_var);
 		Debug_Log_m4B7C70BAFD477C6BDB59C88A0934F0B018D03708(_stringLiteral1279B16A773CDF96895C513984919E6EAB44C9A4, /*hidden argument*/NULL);
 		// bs_State = BroadcastState.active;
-		__this->set_bs_State_29(1);
+		__this->set_bs_State_30(1);
 		// img_ButtonBroadcastState.color = Color.red;
-		Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * L_14 = __this->get_img_ButtonBroadcastState_26();
+		Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * L_14 = __this->get_img_ButtonBroadcastState_27();
 		Color_t119BCA590009762C7223FDD3AF9706653AC84ED2  L_15 = Color_get_red_m5562DD438931CF0D1FBBBB29BF7F8B752AF38957(/*hidden argument*/NULL);
 		NullCheck(L_14);
 		VirtActionInvoker1< Color_t119BCA590009762C7223FDD3AF9706653AC84ED2  >::Invoke(23 /* System.Void UnityEngine.UI.Graphic::set_color(UnityEngine.Color) */, L_14, L_15);
@@ -18954,7 +18965,7 @@ IL_0074:
 IL_009c:
 	{
 		// if (bm_Mode == BroadcastMode.receive)
-		int32_t L_16 = __this->get_bm_Mode_25();
+		int32_t L_16 = __this->get_bm_Mode_26();
 		if ((!(((uint32_t)L_16) == ((uint32_t)1))))
 		{
 			goto IL_00c1;
@@ -18975,9 +18986,9 @@ IL_009c:
 IL_00c1:
 	{
 		// bs_State = BroadcastState.inactive;
-		__this->set_bs_State_29(0);
+		__this->set_bs_State_30(0);
 		// img_ButtonBroadcastState.color = Color.green;
-		Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * L_18 = __this->get_img_ButtonBroadcastState_26();
+		Image_t18FED07D8646917E1C563745518CF3DD57FF0B3E * L_18 = __this->get_img_ButtonBroadcastState_27();
 		Color_t119BCA590009762C7223FDD3AF9706653AC84ED2  L_19 = Color_get_green_mD53D8F980E92A0755759FBB2981E3DDEFCD084C0(/*hidden argument*/NULL);
 		NullCheck(L_18);
 		VirtActionInvoker1< Color_t119BCA590009762C7223FDD3AF9706653AC84ED2  >::Invoke(23 /* System.Void UnityEngine.UI.Graphic::set_color(UnityEngine.Color) */, L_18, L_19);
@@ -19025,7 +19036,7 @@ IL_0006:
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_4 = (L_1)->GetAt(static_cast<il2cpp_array_size_t>(L_3));
 		V_2 = L_4;
 		// var index = mybeacons.IndexOf(b);
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_5 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_5 = __this->get_mybeacons_38();
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_6 = V_2;
 		NullCheck(L_5);
 		int32_t L_7 = List_1_IndexOf_mF159D719965767720B04AA60011BC4BAD7AE9083(L_5, L_6, /*hidden argument*/List_1_IndexOf_mF159D719965767720B04AA60011BC4BAD7AE9083_RuntimeMethod_var);
@@ -19039,7 +19050,7 @@ IL_0006:
 	}
 	{
 		// mybeacons.Add(b);
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_9 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_9 = __this->get_mybeacons_38();
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_10 = V_2;
 		NullCheck(L_9);
 		List_1_Add_m52C66EDF4387D06B50AA6CDFC0803EA2526F6312(L_9, L_10, /*hidden argument*/List_1_Add_m52C66EDF4387D06B50AA6CDFC0803EA2526F6312_RuntimeMethod_var);
@@ -19049,7 +19060,7 @@ IL_0006:
 IL_0029:
 	{
 		// mybeacons[index] = b;
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_11 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_11 = __this->get_mybeacons_38();
 		int32_t L_12 = V_3;
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_13 = V_2;
 		NullCheck(L_11);
@@ -19075,7 +19086,7 @@ IL_003a:
 	}
 	{
 		// for(int i = mybeacons.Count - 1; i >= 0; i--)
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_17 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_17 = __this->get_mybeacons_38();
 		NullCheck(L_17);
 		int32_t L_18 = List_1_get_Count_m85A093A1767D0977D15F6A7DF88EBB4A71022BC6_inline(L_17, /*hidden argument*/List_1_get_Count_m85A093A1767D0977D15F6A7DF88EBB4A71022BC6_RuntimeMethod_var);
 		V_4 = ((int32_t)il2cpp_codegen_subtract((int32_t)L_18, (int32_t)1));
@@ -19085,7 +19096,7 @@ IL_003a:
 IL_0054:
 	{
 		// if (mybeacons[i].lastSeen.AddSeconds(10) < DateTime.Now)
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_19 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_19 = __this->get_mybeacons_38();
 		int32_t L_20 = V_4;
 		NullCheck(L_19);
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_21 = List_1_get_Item_mD5A3EF15EE0ED77BB80DA078B6A44C38D744DD31_inline(L_19, L_20, /*hidden argument*/List_1_get_Item_mD5A3EF15EE0ED77BB80DA078B6A44C38D744DD31_RuntimeMethod_var);
@@ -19103,8 +19114,8 @@ IL_0054:
 	}
 	{
 		// AddSecond.text = string.Format("mybeacons[i].lastSeen.AddSeconds(10): {0}: , DateTime.Now:{1}", mybeacons[i].lastSeen.AddSeconds(10), DateTime.Now); // can delete
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_26 = __this->get_AddSecond_8();
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_27 = __this->get_mybeacons_37();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_26 = __this->get_AddSecond_9();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_27 = __this->get_mybeacons_38();
 		int32_t L_28 = V_4;
 		NullCheck(L_27);
 		Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_29 = List_1_get_Item_mD5A3EF15EE0ED77BB80DA078B6A44C38D744DD31_inline(L_27, L_28, /*hidden argument*/List_1_get_Item_mD5A3EF15EE0ED77BB80DA078B6A44C38D744DD31_RuntimeMethod_var);
@@ -19122,7 +19133,7 @@ IL_0054:
 		NullCheck(L_26);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_26, L_37);
 		// mybeacons.RemoveAt(i);
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_38 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_38 = __this->get_mybeacons_38();
 		int32_t L_39 = V_4;
 		NullCheck(L_38);
 		List_1_RemoveAt_mFABF1C46868FD3EA58FA626DEF51B6AE48E2EE23(L_38, L_39, /*hidden argument*/List_1_RemoveAt_mFABF1C46868FD3EA58FA626DEF51B6AE48E2EE23_RuntimeMethod_var);
@@ -19176,7 +19187,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_DisplayOnBeaconFound_m08B7
 	TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* V_10 = NULL;
 	TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* V_11 = NULL;
 	int32_t V_12 = 0;
-	float V_13 = 0.0f;
+	Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  V_13;
+	memset((&V_13), 0, sizeof(V_13));
 	double V_14 = 0.0;
 	Exception_t * __last_unhandled_exception = 0;
 	NO_UNUSED_WARNING (__last_unhandled_exception);
@@ -19189,7 +19201,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_DisplayOnBeaconFound_m08B7
 		// removeFoundBeacons();
 		iBeaconStatus_removeFoundBeacons_m475ECE25B39E57FC63D5196DE6D126FA29E30867(__this, /*hidden argument*/NULL);
 		// RectTransform rt_Content = (RectTransform)go_ScrollViewContent.transform;
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get_go_ScrollViewContent_30();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get_go_ScrollViewContent_31();
 		NullCheck(L_0);
 		Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_1 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_0, /*hidden argument*/NULL);
 		V_0 = ((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_1, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var));
@@ -19202,7 +19214,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_DisplayOnBeaconFound_m08B7
 		// float cy = 0f;
 		V_4 = (0.0f);
 		// foreach (Beacon b in mybeacons)
-		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_2 = __this->get_mybeacons_37();
+		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_2 = __this->get_mybeacons_38();
 		NullCheck(L_2);
 		Enumerator_tF3A2739C4D32A0A1FBB047620178CDCF372E576A  L_3 = List_1_GetEnumerator_m809DCF055EDD0CDAF3187A6FB7EF10D0F9DA1F36(L_2, /*hidden argument*/List_1_GetEnumerator_m809DCF055EDD0CDAF3187A6FB7EF10D0F9DA1F36_RuntimeMethod_var);
 		V_5 = L_3;
@@ -19212,7 +19224,7 @@ IL_003d:
 	try
 	{ // begin try (depth: 1)
 		{
-			goto IL_03f7;
+			goto IL_048d;
 		}
 
 IL_0042:
@@ -19221,21 +19233,21 @@ IL_0042:
 			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_4 = Enumerator_get_Current_mC0AE53870D3A7600FFF312F137DAF0EDC47DEF57_inline((Enumerator_tF3A2739C4D32A0A1FBB047620178CDCF372E576A *)(&V_5), /*hidden argument*/Enumerator_get_Current_mC0AE53870D3A7600FFF312F137DAF0EDC47DEF57_RuntimeMethod_var);
 			V_6 = L_4;
 			// go_FoundBeaconClone = Instantiate(go_FoundBeacon);
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_5 = __this->get_go_FoundBeacon_31();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_5 = __this->get_go_FoundBeacon_32();
 			IL2CPP_RUNTIME_CLASS_INIT(Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_il2cpp_TypeInfo_var);
 			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_6 = Object_Instantiate_TisGameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F_mC4AB712D7F18E0991E1542CE53F11385E21E7B90(L_5, /*hidden argument*/Object_Instantiate_TisGameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F_mC4AB712D7F18E0991E1542CE53F11385E21E7B90_RuntimeMethod_var);
-			__this->set_go_FoundBeaconClone_33(L_6);
+			__this->set_go_FoundBeaconClone_34(L_6);
 			// go_FoundBeaconClone.transform.SetParent(go_ScrollViewContent.transform);
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_7 = __this->get_go_FoundBeaconClone_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_7 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_7);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_8 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_7, /*hidden argument*/NULL);
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_9 = __this->get_go_ScrollViewContent_30();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_9 = __this->get_go_ScrollViewContent_31();
 			NullCheck(L_9);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_10 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_9, /*hidden argument*/NULL);
 			NullCheck(L_8);
 			Transform_SetParent_mFAF9209CAB6A864552074BA065D740924A4BF979(L_8, L_10, /*hidden argument*/NULL);
 			// float f_scaler = go_FoundBeaconClone.transform.localScale.y;
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_11 = __this->get_go_FoundBeaconClone_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_11 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_11);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_12 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_11, /*hidden argument*/NULL);
 			NullCheck(L_12);
@@ -19245,7 +19257,7 @@ IL_0042:
 			// Vector2 v2_scale = new Vector2(1,1);
 			Vector2__ctor_mEE8FB117AB1F8DB746FB8B3EB4C0DA3BF2A230D0((Vector2_tA85D2DD88578276CA8A8796756458277E72D073D *)(&V_8), (1.0f), (1.0f), /*hidden argument*/NULL);
 			// go_FoundBeaconClone.transform.localScale = v2_scale; //reset scalefactor
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_15 = __this->get_go_FoundBeaconClone_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_15 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_15);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_16 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_15, /*hidden argument*/NULL);
 			Vector2_tA85D2DD88578276CA8A8796756458277E72D073D  L_17 = V_8;
@@ -19254,7 +19266,7 @@ IL_0042:
 			NullCheck(L_16);
 			Transform_set_localScale_m7ED1A6E5A87CD1D483515B99D6D3121FB92B0556(L_16, L_18, /*hidden argument*/NULL);
 			// Vector3 pos = go_ScrollViewContent.transform.position; // get anchor position
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_19 = __this->get_go_ScrollViewContent_30();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_19 = __this->get_go_ScrollViewContent_31();
 			NullCheck(L_19);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_20 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_19, /*hidden argument*/NULL);
 			NullCheck(L_20);
@@ -19264,41 +19276,41 @@ IL_0042:
 			float* L_22 = (&V_9)->get_address_of_y_3();
 			float* L_23 = L_22;
 			float L_24 = *((float*)L_23);
-			float L_25 = __this->get_f_ScrollViewContentRectHeight_35();
+			float L_25 = __this->get_f_ScrollViewContentRectHeight_36();
 			float L_26 = V_7;
-			int32_t L_27 = __this->get_i_BeaconCounter_36();
+			int32_t L_27 = __this->get_i_BeaconCounter_37();
 			*((float*)L_23) = (float)((float)il2cpp_codegen_subtract((float)L_24, (float)((float)il2cpp_codegen_multiply((float)((float)((float)L_25/(float)L_26)), (float)(((float)((float)L_27)))))));
 			// go_FoundBeaconClone.transform.position = pos;
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_28 = __this->get_go_FoundBeaconClone_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_28 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_28);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_29 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_28, /*hidden argument*/NULL);
 			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_30 = V_9;
 			NullCheck(L_29);
 			Transform_set_position_mDA89E4893F14ECA5CBEEE7FB80A5BF7C1B8EA6DC(L_29, L_30, /*hidden argument*/NULL);
 			// i_BeaconCounter++;
-			int32_t L_31 = __this->get_i_BeaconCounter_36();
-			__this->set_i_BeaconCounter_36(((int32_t)il2cpp_codegen_add((int32_t)L_31, (int32_t)1)));
+			int32_t L_31 = __this->get_i_BeaconCounter_37();
+			__this->set_i_BeaconCounter_37(((int32_t)il2cpp_codegen_add((int32_t)L_31, (int32_t)1)));
 			// rt_Content.sizeDelta = new Vector2(f_ScrollViewContentRectWidth, f_ScrollViewContentRectHeight * i_BeaconCounter); // resize scrollviewcontent
 			RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 * L_32 = V_0;
-			float L_33 = __this->get_f_ScrollViewContentRectWidth_34();
-			float L_34 = __this->get_f_ScrollViewContentRectHeight_35();
-			int32_t L_35 = __this->get_i_BeaconCounter_36();
+			float L_33 = __this->get_f_ScrollViewContentRectWidth_35();
+			float L_34 = __this->get_f_ScrollViewContentRectHeight_36();
+			int32_t L_35 = __this->get_i_BeaconCounter_37();
 			Vector2_tA85D2DD88578276CA8A8796756458277E72D073D  L_36;
 			memset((&L_36), 0, sizeof(L_36));
 			Vector2__ctor_mEE8FB117AB1F8DB746FB8B3EB4C0DA3BF2A230D0((&L_36), L_33, ((float)il2cpp_codegen_multiply((float)L_34, (float)(((float)((float)L_35))))), /*hidden argument*/NULL);
 			NullCheck(L_32);
 			RectTransform_set_sizeDelta_m7729BA56325BA667F0F7D60D642124F7909F1302(L_32, L_36, /*hidden argument*/NULL);
 			// go_FoundBeaconClone.SetActive(true);
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_37 = __this->get_go_FoundBeaconClone_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_37 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_37);
 			GameObject_SetActive_m25A39F6D9FB68C51F13313F9804E85ACC937BC04(L_37, (bool)1, /*hidden argument*/NULL);
 			// go_FoundBeaconCloneList.Add(go_FoundBeaconClone);
-			List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_38 = __this->get_go_FoundBeaconCloneList_32();
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_39 = __this->get_go_FoundBeaconClone_33();
+			List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_38 = __this->get_go_FoundBeaconCloneList_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_39 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_38);
 			List_1_Add_mB466FEDA88AB72CA7331450A36E50D916A6C3BB6(L_38, L_39, /*hidden argument*/List_1_Add_mB466FEDA88AB72CA7331450A36E50D916A6C3BB6_RuntimeMethod_var);
 			// Text[] Texts = go_FoundBeaconClone.GetComponentsInChildren<Text>(); // get text components
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_40 = __this->get_go_FoundBeaconClone_33();
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_40 = __this->get_go_FoundBeaconClone_34();
 			NullCheck(L_40);
 			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_41 = GameObject_GetComponentsInChildren_TisText_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030_mB851FE3AE92D6279BCBF20284656AE233703A63D(L_40, /*hidden argument*/GameObject_GetComponentsInChildren_TisText_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030_mB851FE3AE92D6279BCBF20284656AE233703A63D_RuntimeMethod_var);
 			V_10 = L_41;
@@ -19409,14 +19421,14 @@ IL_01bd:
 
 IL_01cc:
 		{
-			// cx = (Mathf.Pow(d1, 2) - Mathf.Pow(d2, 2) + 100) / 200;
+			// cx = (Mathf.Pow(d1, 2) - Mathf.Pow(d2, 2) + 10000) / 200;
 			float L_65 = V_1;
 			IL2CPP_RUNTIME_CLASS_INIT(Mathf_tFBDE6467D269BFE410605C7D806FD9991D4A89CB_il2cpp_TypeInfo_var);
 			float L_66 = powf(L_65, (2.0f));
 			float L_67 = V_2;
 			float L_68 = powf(L_67, (2.0f));
-			V_3 = ((float)((float)((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_subtract((float)L_66, (float)L_68)), (float)(100.0f)))/(float)(200.0f)));
-			// var yPow = Mathf.Pow(d1, 2) - Mathf.Pow(cx, 2);
+			V_3 = ((float)((float)((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_subtract((float)L_66, (float)L_68)), (float)(10000.0f)))/(float)(200.0f)));
+			// var yPow = Mathf.Pow(d1, 2) - Mathf.Pow(cx , 2);
 			float L_69 = V_1;
 			float L_70 = powf(L_69, (2.0f));
 			float L_71 = V_3;
@@ -19425,246 +19437,282 @@ IL_01cc:
 			float L_73 = fabsf(((float)il2cpp_codegen_subtract((float)L_70, (float)L_72)));
 			float L_74 = sqrtf(L_73);
 			V_4 = L_74;
-			// resultPosition.transform.position = new Vector3(cx, 0, 0);
+			// resultPosition.transform.position = new Vector3(cx/100, 0, 0);
 			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_75 = __this->get_resultPosition_4();
 			NullCheck(L_75);
 			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_76 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_75, /*hidden argument*/NULL);
 			float L_77 = V_3;
 			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_78;
 			memset((&L_78), 0, sizeof(L_78));
-			Vector3__ctor_m08F61F548AA5836D8789843ACB4A81E4963D2EE1((&L_78), L_77, (0.0f), (0.0f), /*hidden argument*/NULL);
+			Vector3__ctor_m08F61F548AA5836D8789843ACB4A81E4963D2EE1((&L_78), ((float)((float)L_77/(float)(100.0f))), (0.0f), (0.0f), /*hidden argument*/NULL);
 			NullCheck(L_76);
 			Transform_set_position_mDA89E4893F14ECA5CBEEE7FB80A5BF7C1B8EA6DC(L_76, L_78, /*hidden argument*/NULL);
-			// if(cx >= 0.3 && cx <= 0.4)
-			float L_79 = V_3;
-			if ((!(((double)(((double)((double)L_79)))) >= ((double)(0.3)))))
-			{
-				goto IL_026d;
-			}
-		}
-
-IL_0240:
-		{
-			float L_80 = V_3;
-			if ((!(((double)(((double)((double)L_80)))) <= ((double)(0.4)))))
-			{
-				goto IL_026d;
-			}
-		}
-
-IL_024d:
-		{
-			// cube1.transform.position = new Vector3(cx, 2, 0);
-			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_81 = __this->get_cube1_5();
+			// cube1.transform.position = new Vector3(ARCamera.transform.position.x - (cx/100), ARCamera.transform.position.y - (cy/100), 0);
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_79 = __this->get_cube1_5();
+			NullCheck(L_79);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_80 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_79, /*hidden argument*/NULL);
+			Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * L_81 = __this->get_ARCamera_8();
 			NullCheck(L_81);
-			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_82 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_81, /*hidden argument*/NULL);
-			float L_83 = V_3;
-			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_84;
-			memset((&L_84), 0, sizeof(L_84));
-			Vector3__ctor_m08F61F548AA5836D8789843ACB4A81E4963D2EE1((&L_84), L_83, (2.0f), (0.0f), /*hidden argument*/NULL);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_82 = Component_get_transform_m00F05BD782F920C301A7EBA480F3B7A904C07EC9(L_81, /*hidden argument*/NULL);
 			NullCheck(L_82);
-			Transform_set_position_mDA89E4893F14ECA5CBEEE7FB80A5BF7C1B8EA6DC(L_82, L_84, /*hidden argument*/NULL);
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_83 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_82, /*hidden argument*/NULL);
+			float L_84 = L_83.get_x_2();
+			float L_85 = V_3;
+			Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * L_86 = __this->get_ARCamera_8();
+			NullCheck(L_86);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_87 = Component_get_transform_m00F05BD782F920C301A7EBA480F3B7A904C07EC9(L_86, /*hidden argument*/NULL);
+			NullCheck(L_87);
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_88 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_87, /*hidden argument*/NULL);
+			float L_89 = L_88.get_y_3();
+			float L_90 = V_4;
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_91;
+			memset((&L_91), 0, sizeof(L_91));
+			Vector3__ctor_m08F61F548AA5836D8789843ACB4A81E4963D2EE1((&L_91), ((float)il2cpp_codegen_subtract((float)L_84, (float)((float)((float)L_85/(float)(100.0f))))), ((float)il2cpp_codegen_subtract((float)L_89, (float)((float)((float)L_90/(float)(100.0f))))), (0.0f), /*hidden argument*/NULL);
+			NullCheck(L_80);
+			Transform_set_position_mDA89E4893F14ECA5CBEEE7FB80A5BF7C1B8EA6DC(L_80, L_91, /*hidden argument*/NULL);
+			// cube2.transform.position = new Vector3(cube1.transform.position.x + 1, 0, 0);
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_92 = __this->get_cube2_6();
+			NullCheck(L_92);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_93 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_92, /*hidden argument*/NULL);
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_94 = __this->get_cube1_5();
+			NullCheck(L_94);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_95 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_94, /*hidden argument*/NULL);
+			NullCheck(L_95);
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_96 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_95, /*hidden argument*/NULL);
+			float L_97 = L_96.get_x_2();
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_98;
+			memset((&L_98), 0, sizeof(L_98));
+			Vector3__ctor_m08F61F548AA5836D8789843ACB4A81E4963D2EE1((&L_98), ((float)il2cpp_codegen_add((float)L_97, (float)(1.0f))), (0.0f), (0.0f), /*hidden argument*/NULL);
+			NullCheck(L_93);
+			Transform_set_position_mDA89E4893F14ECA5CBEEE7FB80A5BF7C1B8EA6DC(L_93, L_98, /*hidden argument*/NULL);
+			// if(cx >= 0.3 && cx <= 0.4)
+			float L_99 = V_3;
+			if ((!(((double)(((double)((double)L_99)))) >= ((double)(0.3)))))
+			{
+				goto IL_0308;
+			}
 		}
 
-IL_026d:
+IL_02d5:
+		{
+			float L_100 = V_3;
+			if ((!(((double)(((double)((double)L_100)))) <= ((double)(0.4)))))
+			{
+				goto IL_0308;
+			}
+		}
+
+IL_02e2:
+		{
+			// cylinder.transform.position = new Vector3(cx/100, 2, 0);
+			GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_101 = __this->get_cylinder_7();
+			NullCheck(L_101);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_102 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_101, /*hidden argument*/NULL);
+			float L_103 = V_3;
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_104;
+			memset((&L_104), 0, sizeof(L_104));
+			Vector3__ctor_m08F61F548AA5836D8789843ACB4A81E4963D2EE1((&L_104), ((float)((float)L_103/(float)(100.0f))), (2.0f), (0.0f), /*hidden argument*/NULL);
+			NullCheck(L_102);
+			Transform_set_position_mDA89E4893F14ECA5CBEEE7FB80A5BF7C1B8EA6DC(L_102, L_104, /*hidden argument*/NULL);
+		}
+
+IL_0308:
 		{
 			// if (b.type == BeaconType.iBeacon)
-			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_85 = V_6;
-			NullCheck(L_85);
-			int32_t L_86 = Beacon_get_type_m0617595D89A672527F769A0F08BFA9A5C242D291_inline(L_85, /*hidden argument*/NULL);
-			if ((!(((uint32_t)L_86) == ((uint32_t)1))))
+			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_105 = V_6;
+			NullCheck(L_105);
+			int32_t L_106 = Beacon_get_type_m0617595D89A672527F769A0F08BFA9A5C242D291_inline(L_105, /*hidden argument*/NULL);
+			if ((!(((uint32_t)L_106) == ((uint32_t)1))))
 			{
-				goto IL_03df;
+				goto IL_0475;
 			}
 		}
 
-IL_027a:
+IL_0315:
 		{
 			// Texts[0].text = "d1: " + d1;
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_87 = V_10;
-			NullCheck(L_87);
-			int32_t L_88 = 0;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_89 = (L_87)->GetAt(static_cast<il2cpp_array_size_t>(L_88));
-			float L_90 = V_1;
-			float L_91 = L_90;
-			RuntimeObject * L_92 = Box(Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1_il2cpp_TypeInfo_var, &L_91);
-			String_t* L_93 = String_Concat_mBB19C73816BDD1C3519F248E1ADC8E11A6FDB495(_stringLiteral10A4666D1CCE67A1FEF2E25770205F80B280D467, L_92, /*hidden argument*/NULL);
-			NullCheck(L_89);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_89, L_93);
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_107 = V_10;
+			NullCheck(L_107);
+			int32_t L_108 = 0;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_109 = (L_107)->GetAt(static_cast<il2cpp_array_size_t>(L_108));
+			float L_110 = V_1;
+			float L_111 = L_110;
+			RuntimeObject * L_112 = Box(Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1_il2cpp_TypeInfo_var, &L_111);
+			String_t* L_113 = String_Concat_mBB19C73816BDD1C3519F248E1ADC8E11A6FDB495(_stringLiteral10A4666D1CCE67A1FEF2E25770205F80B280D467, L_112, /*hidden argument*/NULL);
+			NullCheck(L_109);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_109, L_113);
 			// Texts[1].text = "d2: " + d2;
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_94 = V_10;
-			NullCheck(L_94);
-			int32_t L_95 = 1;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_96 = (L_94)->GetAt(static_cast<il2cpp_array_size_t>(L_95));
-			float L_97 = V_2;
-			float L_98 = L_97;
-			RuntimeObject * L_99 = Box(Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1_il2cpp_TypeInfo_var, &L_98);
-			String_t* L_100 = String_Concat_mBB19C73816BDD1C3519F248E1ADC8E11A6FDB495(_stringLiteralD994CD35D216A12D2C7762E5FEEFF8337987E460, L_99, /*hidden argument*/NULL);
-			NullCheck(L_96);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_96, L_100);
-			// Texts[2].text = "(cx, cy) ";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_101 = V_10;
-			NullCheck(L_101);
-			int32_t L_102 = 2;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_103 = (L_101)->GetAt(static_cast<il2cpp_array_size_t>(L_102));
-			NullCheck(L_103);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_103, _stringLiteral92F401A967BF4E9BDD5516FBD5034D786B9C9165);
-			// Texts[3].text = cx.ToString() + " , " + cy.ToString();
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_104 = V_10;
-			NullCheck(L_104);
-			int32_t L_105 = 3;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_106 = (L_104)->GetAt(static_cast<il2cpp_array_size_t>(L_105));
-			String_t* L_107 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_3), /*hidden argument*/NULL);
-			String_t* L_108 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_4), /*hidden argument*/NULL);
-			String_t* L_109 = String_Concat_mF4626905368D6558695A823466A1AF65EADB9923(L_107, _stringLiteralE2EDFF9A40A00301F6C240A4FA3071CE73ACDACB, L_108, /*hidden argument*/NULL);
-			NullCheck(L_106);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_106, L_109);
-			// Texts[6].text = "cube1 (x,y):";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_110 = V_10;
-			NullCheck(L_110);
-			int32_t L_111 = 6;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_112 = (L_110)->GetAt(static_cast<il2cpp_array_size_t>(L_111));
-			NullCheck(L_112);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_112, _stringLiteral9196172D8ED3D538CE3E0FE628CBD4C06F7B757C);
-			// Texts[7].text = (ARCamera.transform.position.x - cx).ToString() + "," + (ARCamera.transform.position.y - cy).ToString();//b.range.ToString();
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_113 = V_10;
-			NullCheck(L_113);
-			int32_t L_114 = 7;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_115 = (L_113)->GetAt(static_cast<il2cpp_array_size_t>(L_114));
-			Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * L_116 = __this->get_ARCamera_7();
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_114 = V_10;
+			NullCheck(L_114);
+			int32_t L_115 = 1;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_116 = (L_114)->GetAt(static_cast<il2cpp_array_size_t>(L_115));
+			float L_117 = V_2;
+			float L_118 = L_117;
+			RuntimeObject * L_119 = Box(Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1_il2cpp_TypeInfo_var, &L_118);
+			String_t* L_120 = String_Concat_mBB19C73816BDD1C3519F248E1ADC8E11A6FDB495(_stringLiteralD994CD35D216A12D2C7762E5FEEFF8337987E460, L_119, /*hidden argument*/NULL);
 			NullCheck(L_116);
-			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_117 = Component_get_transform_m00F05BD782F920C301A7EBA480F3B7A904C07EC9(L_116, /*hidden argument*/NULL);
-			NullCheck(L_117);
-			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_118 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_117, /*hidden argument*/NULL);
-			float L_119 = L_118.get_x_2();
-			float L_120 = V_3;
-			V_13 = ((float)il2cpp_codegen_subtract((float)L_119, (float)L_120));
-			String_t* L_121 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_13), /*hidden argument*/NULL);
-			Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * L_122 = __this->get_ARCamera_7();
-			NullCheck(L_122);
-			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_123 = Component_get_transform_m00F05BD782F920C301A7EBA480F3B7A904C07EC9(L_122, /*hidden argument*/NULL);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_116, L_120);
+			// Texts[2].text = "(cx, cy) ";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_121 = V_10;
+			NullCheck(L_121);
+			int32_t L_122 = 2;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_123 = (L_121)->GetAt(static_cast<il2cpp_array_size_t>(L_122));
 			NullCheck(L_123);
-			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_124 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_123, /*hidden argument*/NULL);
-			float L_125 = L_124.get_y_3();
-			float L_126 = V_4;
-			V_13 = ((float)il2cpp_codegen_subtract((float)L_125, (float)L_126));
-			String_t* L_127 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_13), /*hidden argument*/NULL);
-			String_t* L_128 = String_Concat_mF4626905368D6558695A823466A1AF65EADB9923(L_121, _stringLiteral5C10B5B2CD673A0616D529AA5234B12EE7153808, L_127, /*hidden argument*/NULL);
-			NullCheck(L_115);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_115, L_128);
-			// Texts[8].text = "Strength:";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_129 = V_10;
-			NullCheck(L_129);
-			int32_t L_130 = 8;
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_131 = (L_129)->GetAt(static_cast<il2cpp_array_size_t>(L_130));
-			NullCheck(L_131);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_131, _stringLiteral8BC3B9C08189F55C5B684C9D339CB683FDCC7F35);
-			// Texts[9].text = b.strength.ToString() + " db";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_132 = V_10;
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_123, _stringLiteral92F401A967BF4E9BDD5516FBD5034D786B9C9165);
+			// Texts[3].text = cx.ToString() + " , " + cy.ToString();
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_124 = V_10;
+			NullCheck(L_124);
+			int32_t L_125 = 3;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_126 = (L_124)->GetAt(static_cast<il2cpp_array_size_t>(L_125));
+			String_t* L_127 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_3), /*hidden argument*/NULL);
+			String_t* L_128 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_4), /*hidden argument*/NULL);
+			String_t* L_129 = String_Concat_mF4626905368D6558695A823466A1AF65EADB9923(L_127, _stringLiteralE2EDFF9A40A00301F6C240A4FA3071CE73ACDACB, L_128, /*hidden argument*/NULL);
+			NullCheck(L_126);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_126, L_129);
+			// Texts[6].text = "cube1 (x,y):";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_130 = V_10;
+			NullCheck(L_130);
+			int32_t L_131 = 6;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_132 = (L_130)->GetAt(static_cast<il2cpp_array_size_t>(L_131));
 			NullCheck(L_132);
-			int32_t L_133 = ((int32_t)9);
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_134 = (L_132)->GetAt(static_cast<il2cpp_array_size_t>(L_133));
-			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_135 = V_6;
-			NullCheck(L_135);
-			int32_t L_136 = Beacon_get_strength_mBE38F23FA7BED5C6E26B910D3C0DA1ED10BABB44_inline(L_135, /*hidden argument*/NULL);
-			V_12 = L_136;
-			String_t* L_137 = Int32_ToString_m1863896DE712BF97C031D55B12E1583F1982DC02((int32_t*)(&V_12), /*hidden argument*/NULL);
-			String_t* L_138 = String_Concat_mB78D0094592718DA6D5DB6C712A9C225631666BE(L_137, _stringLiteral4AAF18112F0F8B7FA55F6D1CABF084544EF9CAD0, /*hidden argument*/NULL);
-			NullCheck(L_134);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_134, L_138);
-			// Texts[10].text = "Accuracy:";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_139 = V_10;
-			NullCheck(L_139);
-			int32_t L_140 = ((int32_t)10);
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_141 = (L_139)->GetAt(static_cast<il2cpp_array_size_t>(L_140));
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_132, _stringLiteral9196172D8ED3D538CE3E0FE628CBD4C06F7B757C);
+			// Texts[7].text = ARCamera.transform.position.x.ToString() + "," + ARCamera.transform.position.y.ToString();//b.range.ToString();
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_133 = V_10;
+			NullCheck(L_133);
+			int32_t L_134 = 7;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_135 = (L_133)->GetAt(static_cast<il2cpp_array_size_t>(L_134));
+			Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * L_136 = __this->get_ARCamera_8();
+			NullCheck(L_136);
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_137 = Component_get_transform_m00F05BD782F920C301A7EBA480F3B7A904C07EC9(L_136, /*hidden argument*/NULL);
+			NullCheck(L_137);
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_138 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_137, /*hidden argument*/NULL);
+			V_13 = L_138;
+			float* L_139 = (&V_13)->get_address_of_x_2();
+			String_t* L_140 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)L_139, /*hidden argument*/NULL);
+			Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34 * L_141 = __this->get_ARCamera_8();
 			NullCheck(L_141);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_141, _stringLiteralE22648B43E3B594A00AC08C95E4D744A373CE658);
-			// Texts[11].text = b.accuracy.ToString().Substring(0,10) + " m";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_142 = V_10;
+			Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_142 = Component_get_transform_m00F05BD782F920C301A7EBA480F3B7A904C07EC9(L_141, /*hidden argument*/NULL);
 			NullCheck(L_142);
-			int32_t L_143 = ((int32_t)11);
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_144 = (L_142)->GetAt(static_cast<il2cpp_array_size_t>(L_143));
-			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_145 = V_6;
-			NullCheck(L_145);
-			double L_146 = Beacon_get_accuracy_mEAA7977D64888DDDFF915A84A6EB9FD2225E7DCB_inline(L_145, /*hidden argument*/NULL);
-			V_14 = L_146;
-			String_t* L_147 = Double_ToString_mEB58879AE04C90A89E1475909F82BF4F8540D8CF((double*)(&V_14), /*hidden argument*/NULL);
+			Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  L_143 = Transform_get_position_mF54C3A064F7C8E24F1C56EE128728B2E4485E294(L_142, /*hidden argument*/NULL);
+			V_13 = L_143;
+			float* L_144 = (&V_13)->get_address_of_y_3();
+			String_t* L_145 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)L_144, /*hidden argument*/NULL);
+			String_t* L_146 = String_Concat_mF4626905368D6558695A823466A1AF65EADB9923(L_140, _stringLiteral5C10B5B2CD673A0616D529AA5234B12EE7153808, L_145, /*hidden argument*/NULL);
+			NullCheck(L_135);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_135, L_146);
+			// Texts[8].text = "Strength:";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_147 = V_10;
 			NullCheck(L_147);
-			String_t* L_148 = String_Substring_mB593C0A320C683E6E47EFFC0A12B7A465E5E43BB(L_147, 0, ((int32_t)10), /*hidden argument*/NULL);
-			String_t* L_149 = String_Concat_mB78D0094592718DA6D5DB6C712A9C225631666BE(L_148, _stringLiteralA283E0834C9BA6B0871E5EED9AD3C5151507AA51, /*hidden argument*/NULL);
-			NullCheck(L_144);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_144, L_149);
-			// Texts[12].text = "Rssi:";
+			int32_t L_148 = 8;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_149 = (L_147)->GetAt(static_cast<il2cpp_array_size_t>(L_148));
+			NullCheck(L_149);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_149, _stringLiteral8BC3B9C08189F55C5B684C9D339CB683FDCC7F35);
+			// Texts[9].text = b.strength.ToString() + " db";
 			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_150 = V_10;
 			NullCheck(L_150);
-			int32_t L_151 = ((int32_t)12);
+			int32_t L_151 = ((int32_t)9);
 			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_152 = (L_150)->GetAt(static_cast<il2cpp_array_size_t>(L_151));
-			NullCheck(L_152);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_152, _stringLiteral3D84D59D9D8461FCFD3644129E31399D9FA440B2);
-			// Texts[13].text = b.rssi.ToString() + " db";
-			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_153 = V_10;
+			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_153 = V_6;
 			NullCheck(L_153);
-			int32_t L_154 = ((int32_t)13);
-			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_155 = (L_153)->GetAt(static_cast<il2cpp_array_size_t>(L_154));
-			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_156 = V_6;
-			NullCheck(L_156);
-			int32_t L_157 = Beacon_get_rssi_m79AA3A72BE4A05161D16803357DFED16C27887C2_inline(L_156, /*hidden argument*/NULL);
-			V_12 = L_157;
-			String_t* L_158 = Int32_ToString_m1863896DE712BF97C031D55B12E1583F1982DC02((int32_t*)(&V_12), /*hidden argument*/NULL);
-			String_t* L_159 = String_Concat_mB78D0094592718DA6D5DB6C712A9C225631666BE(L_158, _stringLiteral4AAF18112F0F8B7FA55F6D1CABF084544EF9CAD0, /*hidden argument*/NULL);
-			NullCheck(L_155);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_155, L_159);
-			// }
-			goto IL_03f7;
-		}
-
-IL_03df:
-		{
-			// Texts[0].text = "Find iBeacon Error";
+			int32_t L_154 = Beacon_get_strength_mBE38F23FA7BED5C6E26B910D3C0DA1ED10BABB44_inline(L_153, /*hidden argument*/NULL);
+			V_12 = L_154;
+			String_t* L_155 = Int32_ToString_m1863896DE712BF97C031D55B12E1583F1982DC02((int32_t*)(&V_12), /*hidden argument*/NULL);
+			String_t* L_156 = String_Concat_mB78D0094592718DA6D5DB6C712A9C225631666BE(L_155, _stringLiteral4AAF18112F0F8B7FA55F6D1CABF084544EF9CAD0, /*hidden argument*/NULL);
+			NullCheck(L_152);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_152, L_156);
+			// Texts[10].text = "Accuracy:";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_157 = V_10;
+			NullCheck(L_157);
+			int32_t L_158 = ((int32_t)10);
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_159 = (L_157)->GetAt(static_cast<il2cpp_array_size_t>(L_158));
+			NullCheck(L_159);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_159, _stringLiteralE22648B43E3B594A00AC08C95E4D744A373CE658);
+			// Texts[11].text = b.accuracy.ToString().Substring(0,10) + " m";
 			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_160 = V_10;
 			NullCheck(L_160);
-			int32_t L_161 = 0;
+			int32_t L_161 = ((int32_t)11);
 			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_162 = (L_160)->GetAt(static_cast<il2cpp_array_size_t>(L_161));
+			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_163 = V_6;
+			NullCheck(L_163);
+			double L_164 = Beacon_get_accuracy_mEAA7977D64888DDDFF915A84A6EB9FD2225E7DCB_inline(L_163, /*hidden argument*/NULL);
+			V_14 = L_164;
+			String_t* L_165 = Double_ToString_mEB58879AE04C90A89E1475909F82BF4F8540D8CF((double*)(&V_14), /*hidden argument*/NULL);
+			NullCheck(L_165);
+			String_t* L_166 = String_Substring_mB593C0A320C683E6E47EFFC0A12B7A465E5E43BB(L_165, 0, ((int32_t)10), /*hidden argument*/NULL);
+			String_t* L_167 = String_Concat_mB78D0094592718DA6D5DB6C712A9C225631666BE(L_166, _stringLiteralA283E0834C9BA6B0871E5EED9AD3C5151507AA51, /*hidden argument*/NULL);
 			NullCheck(L_162);
-			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_162, _stringLiteralCD4603D57895D6EACE737F7365E752A413CCAA22);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_162, L_167);
+			// Texts[12].text = "Rssi:";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_168 = V_10;
+			NullCheck(L_168);
+			int32_t L_169 = ((int32_t)12);
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_170 = (L_168)->GetAt(static_cast<il2cpp_array_size_t>(L_169));
+			NullCheck(L_170);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_170, _stringLiteral3D84D59D9D8461FCFD3644129E31399D9FA440B2);
+			// Texts[13].text = b.rssi.ToString() + " db";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_171 = V_10;
+			NullCheck(L_171);
+			int32_t L_172 = ((int32_t)13);
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_173 = (L_171)->GetAt(static_cast<il2cpp_array_size_t>(L_172));
+			Beacon_t36C1666DE4D5755F5A474E47B04BBEDDAA908FFD * L_174 = V_6;
+			NullCheck(L_174);
+			int32_t L_175 = Beacon_get_rssi_m79AA3A72BE4A05161D16803357DFED16C27887C2_inline(L_174, /*hidden argument*/NULL);
+			V_12 = L_175;
+			String_t* L_176 = Int32_ToString_m1863896DE712BF97C031D55B12E1583F1982DC02((int32_t*)(&V_12), /*hidden argument*/NULL);
+			String_t* L_177 = String_Concat_mB78D0094592718DA6D5DB6C712A9C225631666BE(L_176, _stringLiteral4AAF18112F0F8B7FA55F6D1CABF084544EF9CAD0, /*hidden argument*/NULL);
+			NullCheck(L_173);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_173, L_177);
+			// }
+			goto IL_048d;
+		}
+
+IL_0475:
+		{
+			// Texts[0].text = "Find iBeacon Error";
+			TextU5BU5D_t8855BE16E29F8F98FBC7FDDADA9705F9259A1188* L_178 = V_10;
+			NullCheck(L_178);
+			int32_t L_179 = 0;
+			Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_180 = (L_178)->GetAt(static_cast<il2cpp_array_size_t>(L_179));
+			NullCheck(L_180);
+			VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_180, _stringLiteralCD4603D57895D6EACE737F7365E752A413CCAA22);
 			// Debug.Log("Find iBeacon Error");
 			IL2CPP_RUNTIME_CLASS_INIT(Debug_t7B5FCB117E2FD63B6838BC52821B252E2BFB61C4_il2cpp_TypeInfo_var);
 			Debug_Log_m4B7C70BAFD477C6BDB59C88A0934F0B018D03708(_stringLiteralCD4603D57895D6EACE737F7365E752A413CCAA22, /*hidden argument*/NULL);
 		}
 
-IL_03f7:
+IL_048d:
 		{
 			// foreach (Beacon b in mybeacons)
-			bool L_163 = Enumerator_MoveNext_m8872A996B2DD76933C589DCC42105FCF964D7E26((Enumerator_tF3A2739C4D32A0A1FBB047620178CDCF372E576A *)(&V_5), /*hidden argument*/Enumerator_MoveNext_m8872A996B2DD76933C589DCC42105FCF964D7E26_RuntimeMethod_var);
-			if (L_163)
+			bool L_181 = Enumerator_MoveNext_m8872A996B2DD76933C589DCC42105FCF964D7E26((Enumerator_tF3A2739C4D32A0A1FBB047620178CDCF372E576A *)(&V_5), /*hidden argument*/Enumerator_MoveNext_m8872A996B2DD76933C589DCC42105FCF964D7E26_RuntimeMethod_var);
+			if (L_181)
 			{
 				goto IL_0042;
 			}
 		}
 
-IL_0403:
+IL_0499:
 		{
-			IL2CPP_LEAVE(0x413, FINALLY_0405);
+			IL2CPP_LEAVE(0x4A9, FINALLY_049b);
 		}
 	} // end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
 	{
 		__last_unhandled_exception = (Exception_t *)e.ex;
-		goto FINALLY_0405;
+		goto FINALLY_049b;
 	}
 
-FINALLY_0405:
+FINALLY_049b:
 	{ // begin finally (depth: 1)
 		Enumerator_Dispose_m097E8786C58575BF5DB4A461D79E3C4E16787C81((Enumerator_tF3A2739C4D32A0A1FBB047620178CDCF372E576A *)(&V_5), /*hidden argument*/Enumerator_Dispose_m097E8786C58575BF5DB4A461D79E3C4E16787C81_RuntimeMethod_var);
-		IL2CPP_END_FINALLY(1029)
+		IL2CPP_END_FINALLY(1179)
 	} // end finally (depth: 1)
-	IL2CPP_CLEANUP(1029)
+	IL2CPP_CLEANUP(1179)
 	{
-		IL2CPP_JUMP_TBL(0x413, IL_0413)
+		IL2CPP_JUMP_TBL(0x4A9, IL_04a9)
 		IL2CPP_RETHROW_IF_UNHANDLED(Exception_t *)
 	}
 
-IL_0413:
+IL_04a9:
 	{
 		// }
 		return;
@@ -19693,19 +19741,19 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_removeFoundBeacons_m475ECE
 		IL2CPP_RUNTIME_CLASS_INIT(Debug_t7B5FCB117E2FD63B6838BC52821B252E2BFB61C4_il2cpp_TypeInfo_var);
 		Debug_Log_m4B7C70BAFD477C6BDB59C88A0934F0B018D03708(_stringLiteralB6097AAC5029C1195C14C8E7A2A74DAC8DE56722, /*hidden argument*/NULL);
 		// RectTransform rt_Content = (RectTransform)go_ScrollViewContent.transform;
-		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get_go_ScrollViewContent_30();
+		GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * L_0 = __this->get_go_ScrollViewContent_31();
 		NullCheck(L_0);
 		Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * L_1 = GameObject_get_transform_mA5C38857137F137CB96C69FAA624199EB1C2FB2C(L_0, /*hidden argument*/NULL);
 		// rt_Content.sizeDelta = new Vector2(f_ScrollViewContentRectWidth, f_ScrollViewContentRectHeight);
-		float L_2 = __this->get_f_ScrollViewContentRectWidth_34();
-		float L_3 = __this->get_f_ScrollViewContentRectHeight_35();
+		float L_2 = __this->get_f_ScrollViewContentRectWidth_35();
+		float L_3 = __this->get_f_ScrollViewContentRectHeight_36();
 		Vector2_tA85D2DD88578276CA8A8796756458277E72D073D  L_4;
 		memset((&L_4), 0, sizeof(L_4));
 		Vector2__ctor_mEE8FB117AB1F8DB746FB8B3EB4C0DA3BF2A230D0((&L_4), L_2, L_3, /*hidden argument*/NULL);
 		NullCheck(((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_1, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var)));
 		RectTransform_set_sizeDelta_m7729BA56325BA667F0F7D60D642124F7909F1302(((RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 *)CastclassSealed((RuntimeObject*)L_1, RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20_il2cpp_TypeInfo_var)), L_4, /*hidden argument*/NULL);
 		// foreach(GameObject go in go_FoundBeaconCloneList)
-		List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_5 = __this->get_go_FoundBeaconCloneList_32();
+		List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_5 = __this->get_go_FoundBeaconCloneList_33();
 		NullCheck(L_5);
 		Enumerator_t42BA0767BDB9793DC2A37E46371E9DDE2BBAEB60  L_6 = List_1_GetEnumerator_mF3F7C6A691B033A8369791D6DDBFE927804CDAB6(L_5, /*hidden argument*/List_1_GetEnumerator_mF3F7C6A691B033A8369791D6DDBFE927804CDAB6_RuntimeMethod_var);
 		V_0 = L_6;
@@ -19762,11 +19810,11 @@ FINALLY_0055:
 IL_0063:
 	{
 		// go_FoundBeaconCloneList.Clear();
-		List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_9 = __this->get_go_FoundBeaconCloneList_32();
+		List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_9 = __this->get_go_FoundBeaconCloneList_33();
 		NullCheck(L_9);
 		List_1_Clear_m328812EE6BE89C6594EFCA34543A2F011D1452C8(L_9, /*hidden argument*/List_1_Clear_m328812EE6BE89C6594EFCA34543A2F011D1452C8_RuntimeMethod_var);
 		// i_BeaconCounter = 0;
-		__this->set_i_BeaconCounter_36(0);
+		__this->set_i_BeaconCounter_37(0);
 		// }
 		return;
 	}
@@ -19782,22 +19830,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_SaveiBeaconInfo_mCA4709625
 	}
 	{
 		// PlayerPrefs.SetInt("Type", (int)bt_Type);
-		int32_t L_0 = __this->get_bt_Type_15();
+		int32_t L_0 = __this->get_bt_Type_16();
 		PlayerPrefs_SetInt_mBF4101DF829B4738CCC293E1C2D173AEE45EFE62(_stringLiteral3DEB7456519697ECF4EEFC455516C969A3681BAE, L_0, /*hidden argument*/NULL);
 		// PlayerPrefs.SetString("Region", s_Region);
-		String_t* L_1 = __this->get_s_Region_18();
+		String_t* L_1 = __this->get_s_Region_19();
 		PlayerPrefs_SetString_m7AC4E332A5DCA04E0AD91544AF836744BA8C2583(_stringLiteral0F217179940C6D89F5CB2C7002A58D91AB7286C1, L_1, /*hidden argument*/NULL);
 		// PlayerPrefs.SetString("UUID", s_UUID);
-		String_t* L_2 = __this->get_s_UUID_20();
+		String_t* L_2 = __this->get_s_UUID_21();
 		PlayerPrefs_SetString_m7AC4E332A5DCA04E0AD91544AF836744BA8C2583(_stringLiteral21BF75A5255AF008F6315CB6ACA4BB3BDCCEE521, L_2, /*hidden argument*/NULL);
 		// PlayerPrefs.SetString("Major", s_Major);
-		String_t* L_3 = __this->get_s_Major_22();
+		String_t* L_3 = __this->get_s_Major_23();
 		PlayerPrefs_SetString_m7AC4E332A5DCA04E0AD91544AF836744BA8C2583(_stringLiteral8A52ED17C589876EC64358A50E9FE14E754DDC3F, L_3, /*hidden argument*/NULL);
 		// PlayerPrefs.SetString("Minor", s_Minor);
-		String_t* L_4 = __this->get_s_Minor_24();
+		String_t* L_4 = __this->get_s_Minor_25();
 		PlayerPrefs_SetString_m7AC4E332A5DCA04E0AD91544AF836744BA8C2583(_stringLiteral100B45547163E78958046D8A6D59AB6CDA5004BF, L_4, /*hidden argument*/NULL);
 		// PlayerPrefs.SetInt("BroadcastMode", (int)bm_Mode);
-		int32_t L_5 = __this->get_bm_Mode_25();
+		int32_t L_5 = __this->get_bm_Mode_26();
 		PlayerPrefs_SetInt_mBF4101DF829B4738CCC293E1C2D173AEE45EFE62(_stringLiteralBB24913853426EBFC85B20AEEAA7208C7D49DD46, L_5, /*hidden argument*/NULL);
 		// }
 		return;
@@ -19816,22 +19864,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus__ctor_mF6212FC04521E18A1C7
 		// List<GameObject> go_FoundBeaconCloneList = new List<GameObject>();
 		List_1_t3D4152882C54B77C712688E910390D5C8E030463 * L_0 = (List_1_t3D4152882C54B77C712688E910390D5C8E030463 *)il2cpp_codegen_object_new(List_1_t3D4152882C54B77C712688E910390D5C8E030463_il2cpp_TypeInfo_var);
 		List_1__ctor_mE0CF797BC1662A4FDFF8009E76AC0A5CD1BB1FCA(L_0, /*hidden argument*/List_1__ctor_mE0CF797BC1662A4FDFF8009E76AC0A5CD1BB1FCA_RuntimeMethod_var);
-		__this->set_go_FoundBeaconCloneList_32(L_0);
+		__this->set_go_FoundBeaconCloneList_33(L_0);
 		// private List<Beacon> mybeacons = new List<Beacon>();
 		List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E * L_1 = (List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E *)il2cpp_codegen_object_new(List_1_t8E6945578AAB97F0D0F4DBA46A421AFAF3625B0E_il2cpp_TypeInfo_var);
 		List_1__ctor_m1D2D04E501F464EB24297C4EB3A11D39E8DBFF2D(L_1, /*hidden argument*/List_1__ctor_m1D2D04E501F464EB24297C4EB3A11D39E8DBFF2D_RuntimeMethod_var);
-		__this->set_mybeacons_37(L_1);
+		__this->set_mybeacons_38(L_1);
 		MonoBehaviour__ctor_mEAEC84B222C60319D593E456D769B3311DFCEF97(__this, /*hidden argument*/NULL);
 		return;
 	}
 }
-// System.Void iBeaconStatus::<BluetoothStatus>b__38_1(BluetoothLowEnergyState)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_U3CBluetoothStatusU3Eb__38_1_mA46A180AF3F5FF0D67ADDD565B3003EBC6446272 (iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE * __this, int32_t ___state0, const RuntimeMethod* method)
+// System.Void iBeaconStatus::<BluetoothStatus>b__39_1(BluetoothLowEnergyState)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void iBeaconStatus_U3CBluetoothStatusU3Eb__39_1_mF82C6321FFB82F2AD1A41D7E927FFE5AAA946BA8 (iBeaconStatus_tD798A1FFB90B74FB2B700BBBA46E6734D51B4DAE * __this, int32_t ___state0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (iBeaconStatus_U3CBluetoothStatusU3Eb__38_1_mA46A180AF3F5FF0D67ADDD565B3003EBC6446272_MetadataUsageId);
+		il2cpp_codegen_initialize_method (iBeaconStatus_U3CBluetoothStatusU3Eb__39_1_mF82C6321FFB82F2AD1A41D7E927FFE5AAA946BA8_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
@@ -19889,7 +19937,7 @@ IL_0036:
 		// SwitchToStatus();
 		iBeaconStatus_SwitchToStatus_m26218B7B663D410AA53C7C4BE13A2B8EBFF01251(__this, /*hidden argument*/NULL);
 		// _statusText.text = "Checking Device?";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_2 = __this->get__statusText_9();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_2 = __this->get__statusText_10();
 		NullCheck(L_2);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_2, _stringLiteral72E0FCF8C0B8F86E632059DAAEE73804AAFB4FF1);
 		// break;
@@ -19901,7 +19949,7 @@ IL_004d:
 		// SwitchToStatus();
 		iBeaconStatus_SwitchToStatus_m26218B7B663D410AA53C7C4BE13A2B8EBFF01251(__this, /*hidden argument*/NULL);
 		// _statusText.text = "You don't have the permission to use beacons.";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_3 = __this->get__statusText_9();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_3 = __this->get__statusText_10();
 		NullCheck(L_3);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_3, _stringLiteralCCB4E51BF59DFBA8322FC00E8153FC1789BE3029);
 		// break;
@@ -19913,7 +19961,7 @@ IL_0064:
 		// SwitchToStatus();
 		iBeaconStatus_SwitchToStatus_m26218B7B663D410AA53C7C4BE13A2B8EBFF01251(__this, /*hidden argument*/NULL);
 		// _statusText.text = "Your device doesn't support beacons.";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_4 = __this->get__statusText_9();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_4 = __this->get__statusText_10();
 		NullCheck(L_4);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_4, _stringLiteral661416DFD4AA5E83B675F4B4C0BD21E46ED60116);
 		// break;
@@ -19925,11 +19973,11 @@ IL_007b:
 		// SwitchToMenu();
 		iBeaconStatus_SwitchToMenu_m83D4E187BCBBEB84CD7481783ABD51E69E48B76F(__this, /*hidden argument*/NULL);
 		// _bluetoothButton.interactable = true;
-		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_5 = __this->get__bluetoothButton_10();
+		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_5 = __this->get__bluetoothButton_11();
 		NullCheck(L_5);
 		Selectable_set_interactable_mF0897CD627B603DE1F3714FFD8B121AB694E0B6B(L_5, (bool)1, /*hidden argument*/NULL);
 		// _bluetoothText.text = "Enable Bluetooth";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_6 = __this->get__bluetoothText_13();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_6 = __this->get__bluetoothText_14();
 		NullCheck(L_6);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_6, _stringLiteralDA1B5A7307101F9310FBF1AD7F2E24D7D05CB7FA);
 		// break;
@@ -19941,11 +19989,11 @@ IL_009e:
 		// SwitchToMenu();
 		iBeaconStatus_SwitchToMenu_m83D4E187BCBBEB84CD7481783ABD51E69E48B76F(__this, /*hidden argument*/NULL);
 		// _bluetoothButton.interactable = false;
-		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_7 = __this->get__bluetoothButton_10();
+		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_7 = __this->get__bluetoothButton_11();
 		NullCheck(L_7);
 		Selectable_set_interactable_mF0897CD627B603DE1F3714FFD8B121AB694E0B6B(L_7, (bool)0, /*hidden argument*/NULL);
 		// _bluetoothText.text = "Bluetooth already enabled";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_8 = __this->get__bluetoothText_13();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_8 = __this->get__bluetoothText_14();
 		NullCheck(L_8);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_8, _stringLiteral19ACA941FC37DEE176268BD06784B35194502124);
 		// break;
@@ -19957,11 +20005,11 @@ IL_00c1:
 		// SwitchToMenu();
 		iBeaconStatus_SwitchToMenu_m83D4E187BCBBEB84CD7481783ABD51E69E48B76F(__this, /*hidden argument*/NULL);
 		// _bluetoothButton.interactable = false;
-		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_9 = __this->get__bluetoothButton_10();
+		Button_t1203820000D5513FDCCE3D4BFF9C1C9CC755CC2B * L_9 = __this->get__bluetoothButton_11();
 		NullCheck(L_9);
 		Selectable_set_interactable_mF0897CD627B603DE1F3714FFD8B121AB694E0B6B(L_9, (bool)0, /*hidden argument*/NULL);
 		// _bluetoothText.text = "iBeacon only";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_10 = __this->get__bluetoothText_13();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_10 = __this->get__bluetoothText_14();
 		NullCheck(L_10);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_10, _stringLiteral46AD8A404341D8DCF4DE884914503D97C7D6C1E6);
 		// break;
@@ -19973,7 +20021,7 @@ IL_00e4:
 		// SwitchToStatus();
 		iBeaconStatus_SwitchToStatus_m26218B7B663D410AA53C7C4BE13A2B8EBFF01251(__this, /*hidden argument*/NULL);
 		// _statusText.text = "Unknown Error";
-		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_11 = __this->get__statusText_9();
+		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_11 = __this->get__statusText_10();
 		NullCheck(L_11);
 		VirtActionInvoker1< String_t* >::Invoke(73 /* System.Void UnityEngine.UI.Text::set_text(System.String) */, L_11, _stringLiteral1213FAD41FAB8F7F644A9845A102315B47A2C67B);
 	}
@@ -20016,13 +20064,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m99AD2AD08CDD7E2F839991F9C
 		return;
 	}
 }
-// System.Void iBeaconStatus_<>c::<BluetoothStatus>b__38_0()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3CBluetoothStatusU3Eb__38_0_m5B543E21ECB8A7726B8289DE15F58ED6118D6117 (U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421 * __this, const RuntimeMethod* method)
+// System.Void iBeaconStatus_<>c::<BluetoothStatus>b__39_0()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec_U3CBluetoothStatusU3Eb__39_0_mF0F0A2464F13A62B49BDF6BEB9ADA7AB6F265B88 (U3CU3Ec_t66A1AE063550264AFB46D4E237BB41B8CA149421 * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_method (U3CU3Ec_U3CBluetoothStatusU3Eb__38_0_m5B543E21ECB8A7726B8289DE15F58ED6118D6117_MetadataUsageId);
+		il2cpp_codegen_initialize_method (U3CU3Ec_U3CBluetoothStatusU3Eb__39_0_mF0F0A2464F13A62B49BDF6BEB9ADA7AB6F265B88_MetadataUsageId);
 		s_Il2CppMethodInitialized = true;
 	}
 	{

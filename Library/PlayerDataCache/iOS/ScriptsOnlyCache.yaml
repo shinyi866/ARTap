@@ -1030,7 +1030,7 @@ ScriptsOnlyBuild:
     className: HoldingHands
   - hash:
       serializedVersion: 2
-      Hash: c9e28ffa7fbb1303ff828e5982cea6a6
+      Hash: e1fb430e979dbaecc61a50bfc105e3e5
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: iBeaconStatus
